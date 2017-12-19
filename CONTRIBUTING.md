@@ -1,4 +1,4 @@
-#Open Leadership Map Whitepaper Contribution Guidlines
+# Open Leadership Map Whitepaper Contribution Guidlines
 
 You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Map whitepaper. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
 
