@@ -79,7 +79,7 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 1. First, create an account on [GitHub](https://github.com).
 
-2. Then visit [our repo](NEED LINK) to contribute to the whitepaper.
+2. Then visit [our repo](https://github.com/mozilla/olm-whitepaper) to contribute to the whitepaper.
 
 3. Next, click on the "Issues" tab near the top of the page.
 
