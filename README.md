@@ -1,4 +1,4 @@
-# The Open Leadership Map Whitepaper README
+# The Open Leadership Map white paper README
 
 Project lead and contact: [Chad Sansing](mailto:chad@mozillafoundation.org)
 
@@ -32,7 +32,7 @@ Combining those principles and practices, our map might look something like this
 
 We’ve included skills drawn from Mozilla’s own experience with working open, literature about organizational evolution and psychology, and research done by Mozilla’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation).
 
-***We would love to know what you think.*** [This whitepaper](olm-whitepaper.md) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
+***We would love to know what you think.*** [This white paper](olm-whitepaper.md) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
 
 We would love to know:
 
@@ -40,7 +40,7 @@ We would love to know:
 - What doesn’t work for you? What seems confusing or in conflict with your understanding of openness?
 - What’s missing?
 
-If you have the time and passion to contribute to this project, you can offer feedback on GitHub, on Google Docs, or by email. We estimate that it takes 1-2 hours to review the whitepaper.
+If you have the time and passion to contribute to this project, you can offer feedback on GitHub, on Google Docs, or by email. We estimate that it takes 1-2 hours to review the white paper.
 
 ***Our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
 
