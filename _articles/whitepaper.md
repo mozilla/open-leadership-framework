@@ -1,11 +1,7 @@
-<<<<<<< HEAD:olm-whitepaper.md
-# Open Leadership Map white paper v.0.4 (public alpha)
-=======
 ---
 layout: page
 title: "White Paper"
 ---
->>>>>>> origin/master:_articles/whitepaper.md
 
 # Open Leadership Map Whitepaper v.0.4 (public alpha)
 
