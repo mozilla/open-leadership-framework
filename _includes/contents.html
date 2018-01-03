@@ -13,4 +13,11 @@
     </a>
   </li>
 {% endfor %}
+{% for p in item.toc %}
+  <li>
+    <a
+      href="{{ p | slugify | prepend: '#' | prepend: item.url | prepend: site.baseurl }}">{{ p }}
+    </a>
+  </li>
+{% endfor %}
 </ul>

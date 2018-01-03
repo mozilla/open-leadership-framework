@@ -20,7 +20,12 @@
         {% endif %}
       {% endif %}
   </li>
+  {% if subpage.toc %}
+    {% include contents.html item=subpage %}
+  {% endif %}
 {% endfor %}
+
+
 <footer>
   <a target="_blank" href="https://github.com/{{ site.github.repo }}">See the Code on GitHub</a>
 </footer>

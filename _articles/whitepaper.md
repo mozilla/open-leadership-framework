@@ -1,6 +1,19 @@
 ---
 layout: page
 title: "White Paper"
+toc:
+- "Hello & Welcome!"
+- "What is Open?"
+- "What is Open Leadership?"
+- "Open Leadership is Not..."
+- "The Open Leadership Map"
+- "Design"
+- "Build"
+- "Empower"
+- "Next Steps"
+- "Works Cited"
+- "Recommended Reading"
+- "License"
 ---
 
 # Open Leadership Map Whitepaper v.0.4 (public alpha)
