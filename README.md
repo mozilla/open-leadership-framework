@@ -10,9 +10,9 @@ At the Mozilla Foundation, we’ve been asking ourselves questions like these:
 - What does Open Leadership look like and how does it connect to the principles of openness and working open?
 - What might happen if we help ourselves and others become more open by design than open by default?
 
-In pursuit of answers, we’ve begun developing an Open Leadership Map not unlike our Web Literacy Map. 
+In pursuit of answers, we’ve begun developing an Open Leadership Map not unlike our Web Literacy Map.
 
-***We think of Open Leadership as a set of principles, practices, and skills people can use to mobilize their communities to solve shared problems and achieve shared goals.*** The goal of the map is to illustrate how those principles, practices, and skills relate to one another. 
+***We think of Open Leadership as a set of principles, practices, and skills people can use to mobilize their communities to solve shared problems and achieve shared goals.*** The goal of the map is to illustrate how those principles, practices, and skills relate to one another.
 
 These are the principle of openness that drive development of the map:
 
@@ -32,11 +32,7 @@ Combining those principles and practices, our map might look something like this
 
 We’ve included skills drawn from Mozilla’s own experience with working open, literature about organizational evolution and psychology, and research done by Mozilla’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation).
 
-<<<<<<< HEAD
 ***We would love to know what you think.*** [This white paper](olm-white paper.md) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
-=======
-***We would love to know what you think.*** [This white paper](olm-whitepaper.md) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
->>>>>>> origin/master
 
 We would love to know:
 
@@ -48,7 +44,7 @@ If you have the time and passion to contribute to this project, you can offer fe
 
 ***Our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
 
-We know that open leaders work to empower others to become open leaders, as well, and we supremely appreciate your leadership in moving this work ahead. 
+We know that open leaders work to empower others to become open leaders, as well, and we supremely appreciate your leadership in moving this work ahead.
 
 *Please help us spread this call to action by sharing this post on social media with the hashtag #WOLO, for “work open, lead open.”*
 
@@ -103,6 +99,6 @@ If you'd like to learn even more about GitHub, check out the [*GitHub for Collab
 
 ## What's next?
 
-As noted above, ***our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed. 
+As noted above, ***our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
 
 We will share an updated draft of this paper in February, 2018.
