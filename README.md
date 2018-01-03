@@ -1,4 +1,4 @@
-# The Open Leadership Map Whitepaper README
+# The Open Leadership Map white paper README
 
 Project lead and contact: [Chad Sansing](mailto:chad@mozillafoundation.org)
 
@@ -32,7 +32,7 @@ Combining those principles and practices, our map might look something like this
 
 We’ve included skills drawn from Mozilla’s own experience with working open, literature about organizational evolution and psychology, and research done by Mozilla’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation).
 
-***We would love to know what you think.*** [This whitepaper](olm-whitepaper.md) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
+***We would love to know what you think.*** [This white paper](olm-white paper.md) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
 
 We would love to know:
 
@@ -40,7 +40,7 @@ We would love to know:
 - What doesn’t work for you? What seems confusing or in conflict with your understanding of openness?
 - What’s missing?
 
-If you have the time and passion to contribute to this project, you can offer feedback on GitHub, on Google Docs, or by email. We estimate that it takes 1-2 hours to review the whitepaper.
+If you have the time and passion to contribute to this project, you can offer feedback on GitHub, on Google Docs, or by email. We estimate that it takes 1-2 hours to review the white paper.
 
 ***Our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
 
@@ -50,7 +50,7 @@ We know that open leaders work to empower others to become open leaders, as well
 
 ## What Kinds of Skills Do I Need to Contribute?
 
-You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Map whitepaper. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
+You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Map white paper. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
 
 ## Are You New to Open Leadership or Working Open?
 
@@ -58,7 +58,7 @@ This blog post, ["How to Work Open"](https://openmatt.org/2011/04/06/how-to-work
 
 ## How To Contribute
 
-You can contribute to this whitepaper in any way that makes sense to you.
+You can contribute to this white paper in any way that makes sense to you.
 
 ***If you have a lot of experience with GitHub and working open,*** you might clone or fork the paper, send us pull requests to incorporate suggested edits, and/or even create a new version of the paper for your own use.
 
@@ -79,7 +79,7 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 1. First, create an account on [GitHub](https://github.com).
 
-2. Then visit [our repo](https://github.com/mozilla/olm-whitepaper) to contribute to the whitepaper.
+2. Then visit [our repo](https://github.com/mozilla/olm-white paper) to contribute to the white paper.
 
 3. Next, click on the "Issues" tab near the top of the page.
 
@@ -92,7 +92,7 @@ We have labels that will let you suggest:
 - *Case studies.* Help us curate stories that illustrate the best of Open Leadership and Working Open.
 - *Challenges.* Let us know when we get something wrong and suggest a way to fix it.
 - *Copy edits.* Help us find the mistakes and typos we've missed.
-- *Questions.* Let us know what you wonder about as you review the whitepaper.
+- *Questions.* Let us know what you wonder about as you review the white paper.
 - *Other types of issues.* Feel free to share whatever is on your mind regarding the work.
 
 If you'd like to learn even more about GitHub, check out the [*GitHub for Collaboration* section](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) of Mozilla's [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/).

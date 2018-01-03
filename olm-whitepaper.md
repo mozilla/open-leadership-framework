@@ -1,4 +1,4 @@
-# Open Leadership Map Whitepaper v.0.4 (public alpha)
+# Open Leadership Map white paper v.0.4 (public alpha)
 
 **Table of Contents**
 
@@ -345,11 +345,11 @@ A breakdown of each section follows.
 
 ## Next Steps
 
-This whitepaper is a starting place meant to help us better define and practice Open Leadership across Mozilla, the movement for Internet health, and society as a whole. It should prompt discussion and inspire adaptations, challenges, questions, and improvements.
+This white paper is a starting place meant to help us better define and practice Open Leadership across Mozilla, the movement for Internet health, and society as a whole. It should prompt discussion and inspire adaptations, challenges, questions, and improvements.
 
 As we test the Open Leadership map and curriculum, experiences, and assessments informed by it, we’ll look to the Mozilla community to let us know what works, what doesn’t work, and what we should change.
 
-Please let us know what you think of this whitepaper and how you’re using it by contacting Mozilla’s Open Leadership team.
+Please let us know what you think of this white paper and how you’re using it by contacting Mozilla’s Open Leadership team.
 
 Finally, if you’d like to get a sense of how Open Leadership looks across the Mozilla network, check out:
 
@@ -384,5 +384,5 @@ Thank you for your leadership. We can’t wait to see what we can do together!
 
 ## License
 
-The content of this whitepaper is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org).
+The content of this white paper is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org).
 
