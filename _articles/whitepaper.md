@@ -371,6 +371,7 @@ Thank you for your leadership. We can’t wait to see what we can do together!
 
 ## Recommended Reading
 
+- Abrahamson, Shaun, Ryder, Peter, & Unterberg, Bastian. Crowdstorm: The Future of Innovation, Ideas, and Problem Solving. John Wiley & Sons, 2013.
 - Benkler, Yochai. The Wealth of Networks. Yale University Press, 2010.
 - Catmull, Ed & Wallace, Amy. Creativity, Inc. Transworld Publishers Limited, 2014.
 - Klepel, Alex. “Being Open by Design.” [https://medium.com/mozilla-open-innovation/being-open-by-design-deec6768706](https://medium.com/mozilla-open-innovation/being-open-by-design-deec6768706). 8 September 2017.
