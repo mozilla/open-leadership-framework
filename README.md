@@ -99,6 +99,6 @@ If you'd like to learn even more about GitHub, check out the [*GitHub for Collab
 
 ## What's next?
 
-As noted above, ***our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
+As noted above, ***our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from closed to open.
 
 We will share an updated draft of this paper in February, 2018.
