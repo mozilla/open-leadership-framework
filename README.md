@@ -42,7 +42,7 @@ We would love to know:
 
 If you have the time and passion to contribute to this project, you can offer feedback on GitHub, on Google Docs, or by email. We estimate that it takes 1-2 hours to review the white paper.
 
-***Our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
+***Our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from closed to open.
 
 We know that open leaders work to empower others to become open leaders, as well, and we supremely appreciate your leadership in moving this work ahead.
 
