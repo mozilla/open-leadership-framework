@@ -458,7 +458,7 @@ The content of this white paper is licensed [CC BY 4.0](https://creativecommons.
 
 ## Appendix B - Open Leadership Map decision log
 
-If you are curious about how we arrived at different terms, definitions, and models, please review this [decision log](https://docs.google.com/document/d/1ocnwUCmL6w7SeRiFQTdyJSJYlrrPf45Q6jRA28qqSAA/edit#) (also in the repo as [decision-log.md)](decision-log.md).
+If you are curious about how we arrived at different terms, definitions, and models, please review this [decision log](https://docs.google.com/document/d/1ocnwUCmL6w7SeRiFQTdyJSJYlrrPf45Q6jRA28qqSAA/edit#) (also in the repo as [decision-log.md)]({{ site.baseurl }}/decision-log.md).
 
 ## Appendix C - How to contribute
 
