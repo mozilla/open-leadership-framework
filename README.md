@@ -17,7 +17,7 @@ In pursuit of answers, we’ve begun developing an Open Leadership Map not unlik
 These are the principle of openness that drive development of the map:
 
 - ***Understanding:*** open projects are accessible and clear.
-- ***Extensibility:*** open projects are easy to adapt, reproduce, and share.
+- ***Sharing:*** open projects are easy to adapt, reproduce, and spread.
 - ***Participation & inclusion:*** open projects empower contributors; they own the work through accountability, transparency, and shared decision-making.
 
 And these are the practices of Open Leadership that enact those principles. Open leaders:
