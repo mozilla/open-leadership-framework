@@ -91,7 +91,7 @@ Openness includes deals and practices that any kind of community, project, or or
 These three principles help define openness:
 
 - **Understanding:** You make the work accessible and clear.
-- **Sharing:** You make the work easy to adapt, reproduce, and share.
+- **Sharing:** You make the work easy to adapt, reproduce, and spread.
 - **Participation & inclusion:** You build shared ownership and agency with contributors through accountability, equity, and transparency to make the work inviting, relevant,  safe, and sustainable for all.
 
 We believe that it is important to work intentionally and mindfully towards ***Understanding***. Here, ***Understanding*** means not only being accessible, but also being transparent in how a community or project is structured, how it makes decisions and does it work, and how it shares that work and news about it with contributors and users.
@@ -177,7 +177,7 @@ Open leadership is a set of practices and skills people can use to mobilize thei
 Open leaders are guided by open **principles**. They strive for:
 
 - **Understanding:** They make the work accessible and clear.
-- **Sharing:** They make the work easy to adapt, reproduce, and share.
+- **Sharing:** They make the work easy to adapt, reproduce, and spread.
 - **Participation & inclusion:** They make the work inviting, relevant, and safe for all.
 
 To apply these principles, open leaders take these **actions**. They:
