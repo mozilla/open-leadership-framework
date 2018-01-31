@@ -42,11 +42,7 @@ We would love to know:
 
 If you have the time and passion to contribute to this project, you can comment on the Google Doc, file issues on GitHub, or send your feedback by email. We estimate that it takes 1-2 hours to review the white paper. You can also join us for office hours and community calls in February. You can find those schedules below.
 
-<<<<<<< HEAD
 ***Our public beta will run from February 4th, through February 28th, 2018.*** During that time, the Open Leadership & Events Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
-=======
-***Our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from closed to open.
->>>>>>> origin/master
 
 We know that open leaders work to empower others to become open leaders, as well, and we supremely appreciate your leadership in moving this work ahead.
 
