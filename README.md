@@ -32,7 +32,7 @@ Combining those principles and practices, our map might look something like this
 
 We’ve included skills drawn from Mozilla’s own experience with working open, literature about organizational evolution and psychology, and research done by Mozilla’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation).
 
-***We would love to know what you think.*** [This white paper](https://mozilla.github.io/olm-whitepaper/whitepaper/) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
+***We would love to know what you think.*** [This white paper](https://mozilla.github.io/olm-whitepaper/whitepaper/) (and it's [Google Doc version](https://docs.google.com/document/d/1CxQeaZW4fckRqmPeHn9SGSnY6f2cJX5bONEJYbhVTk0/edit#heading=h.daj7ikbuxrpq)) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
 
 We would love to know:
 
@@ -40,34 +40,59 @@ We would love to know:
 - What doesn’t work for you? What seems confusing or in conflict with your understanding of openness?
 - What’s missing?
 
-If you have the time and passion to contribute to this project, you can offer feedback on GitHub, on Google Docs, or by email. We estimate that it takes 1-2 hours to review the white paper.
+If you have the time and passion to contribute to this project, you can comment on the Google Doc, file issues on GitHub, or send your feedback by email. We estimate that it takes 1-2 hours to review the white paper. You can also join us for office hours and community calls in February. You can find those schedules below.
 
-***Our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
+***Our public beta will run from February 4th, through February 28th, 2018.*** During that time, the Open Leadership & Events Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
 
 We know that open leaders work to empower others to become open leaders, as well, and we supremely appreciate your leadership in moving this work ahead.
 
 *Please help us spread this call to action by sharing this post on social media with the hashtag #WOLO, for “work open, lead open.”*
 
-## What Kinds of Skills Do I Need to Contribute?
+## Office hours
+
+We will hold office hours throughout the beta to collect feedback informally on a drop-in basis.
+
+The [office hours notes are here](https://public.etherpad-mozilla.org/p/olm-whitepaper-office-hours).
+
+Here is the schedule for office hours:
+
+- 2/7/18, 12 PM - 2 PM ET, 17:00 - 19:00 UTC
+- 2/13/18, 8 AM - 10 AM ET, 13:00 - 15:00 UTC
+- 2/21/18, 3 PM - 5 PM ET, 20:00 - 22:00 UTC
+
+## Community calls
+
+We will hold two community calls at the end of February to ask what's working, what's not working, and what's missing from the map.
+
+The [community call notes are here](https://public.etherpad-mozilla.org/p/olm-whitepaper-call).
+
+Here is the schedule for community calls:
+
+- 2/27/18, 8 AM - 9 AM ET, 13:00 - 14:00 UTC
+- 2/27/18, 8 PM - 9 PM ET, 01:00 - 02:00 UTC
+
+## What kinds of skills do I need to contribute?
 
 You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Map white paper. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
 
-## Are You New to Open Leadership or Working Open?
+## Are you new to open leadership or working open?
 
 This blog post, ["How to Work Open"](https://openmatt.org/2011/04/06/how-to-work-open/), by Matt Thompson, is an excellent primer.
 
-## How To Contribute
+## How to contribute
 
 You can contribute to this white paper in any way that makes sense to you.
+
+Everyone is welcome to join the OLM office hours and community calls.
 
 ***If you have a lot of experience with GitHub and working open,*** you might clone or fork the paper, send us pull requests to incorporate suggested edits, and/or even create a new version of the paper for your own use.
 
 ***If you have some experience with GitHub and working open,*** you might share your feedback with us using the Issue Tracker feature as explained below.
 
-***If you have little experience with GitHub and working open,*** you might send your questions and feedback to [Chad](mailto:chad@mozillafoundation.org), the contact person for this project.
+***If you have little experience with GitHub and working open,*** you can comment on [this Google Doc](https://docs.google.com/document/d/1CxQeaZW4fckRqmPeHn9SGSnY6f2cJX5bONEJYbhVTk0/edit#heading=h.daj7ikbuxrpq) or send your questions and feedback to curriculum manager [Chad Sansing](mailto:chad@mozillafoundation.org), the contact person for this project.
 
 
-## How To File an Issue on GitHub
+## How to file an issue on GitHub
 
 GitHub can be challenging for new users. If you experience difficulty with it, you are not alone. We want to help you overcome those challenges or find a way to contribute that works for you.
 
@@ -79,7 +104,7 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 1. First, create an account on [GitHub](https://github.com).
 
-2. Then visit [our repo](https://github.com/mozilla/olm-white paper) to contribute to the white paper.
+2. Then visit [our repo](https://github.com/mozilla/olm-whitepaper) to contribute to the white paper.
 
 3. Next, click on the "Issues" tab near the top of the page.
 
@@ -99,6 +124,6 @@ If you'd like to learn even more about GitHub, check out the [*GitHub for Collab
 
 ## What's next?
 
-As noted above, ***our public alpha will run from January 4th, through January 31st, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from closed to open.
+As noted above, ***our public beta will run from February 4th, through February 28th, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from closed to open.
 
-We will share an updated draft of this paper in February, 2018.
+We will launch a "gold" version of the Open Leadership Map white paper later in H1, 2018.
