@@ -19,7 +19,5 @@ Moreover, to promote a safe space for all, we agree to:
 To work together in an open and efficient way, we also commit to:
 
 - Work as openly as possible with due respect for others' privacy choices and sense of agency.
-- Follow the 50/50 rule: for each issue a person raises or for each problem a person identifes, they try to propose a solution, as well.
 - Follow the Nth rule: we will try to “speak” or comment only 1/Nth of the time to allow others to speak, where N is the total number of active contributors on the project.
 - Avoid using jargon and ask for clarification when we need it.
-- Provide feedback in a timely way when invited to do so.
