@@ -28,7 +28,7 @@ And these are the practices of Open Leadership that enact those principles. Open
 
 Combining those principles and practices, our map might look something like this:
 
-![A table showing the benefits of openness to for-profit, non-profit, advocacy-based, and public sector organizations concerning improved quality, improved efficiency, and improved reach](images/why-open-table.png)
+![A table showing the skills of open leadership grouped by principle and practice](images/olm-framework-bw.png)
 
 We’ve included skills drawn from Mozilla’s own experience with working open, literature about organizational evolution and psychology, and research done by Mozilla’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation).
 
