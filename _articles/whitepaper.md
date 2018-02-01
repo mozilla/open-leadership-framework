@@ -441,6 +441,7 @@ Thank you for your leadership. We can’t wait to see what we can do together!
 - Irwin, Emma. "Participation Leadership Framework 0.1." [http://tiptoes.ca/participation-leadership-framework-01/](http://tiptoes.ca/participation-leadership-framework-01/). 28 August 2015.
 - Klepel, Alex. “Being Open by Design.” [https://medium.com/mozilla-open-innovation/being-open-by-design-deec6768706](https://medium.com/mozilla-open-innovation/being-open-by-design-deec6768706). 8 September 2017.
 - Open Innovation Strategy Project Team. Open By Design. Mozilla. July, 2017.
+- Open Organization Leadership Manual. [https://opensource.com/open-organization/resources/leaders-manual](https://opensource.com/open-organization/resources/leaders-manual). July 2017.
 - Pomerantz, Jeffrey & Peek, Robin. "Fifty Shades of Open." First Monday. [http://firstmonday.org/article/view/6360/5460](http://firstmonday.org/article/view/6360/5460). 2 May 2016.
 - Resnick, Mitchel. Lifelong Kindergarten. MIT Press, 2017.
 - Santo, Raphael Joshua. Working Open in the Hive: How Informal Learning Organizations Learn, Collaborate, and Innovate in Networks. Diss. Indiana University, 2017. [https://drive.google.com/drive/folders/0B0RBD2BW-srIbW53NHFZSUQ4a0k](https://drive.google.com/drive/folders/0B0RBD2BW-srIbW53NHFZSUQ4a0k). 7 Aug 2017.
