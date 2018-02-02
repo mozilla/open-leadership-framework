@@ -83,6 +83,8 @@ This blog post, ["How to Work Open"](https://openmatt.org/2011/04/06/how-to-work
 
 You can contribute to this white paper in any way that makes sense to you.
 
+You can follow this series of [weeknotes](https://medium.com/@chadsansing/open-leadership-map-weeknote-1-4f0c4b1b7798), or weekly updates about the project.
+
 Everyone is welcome to join the OLM office hours and community calls.
 
 ***If you have a lot of experience with GitHub and working open,*** you might clone or fork the paper, send us pull requests to incorporate suggested edits, and/or even create a new version of the paper for your own use.
