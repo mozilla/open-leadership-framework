@@ -451,7 +451,7 @@ Thank you for your leadership. We can’t wait to see what we can do together!
 
 ## License
 
-The content of this white paper is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org).
+The content of this white paper is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org). Last updated 2/3/18.
 
 ## Appendix A - Open Leadership Map Theory of Change
 
