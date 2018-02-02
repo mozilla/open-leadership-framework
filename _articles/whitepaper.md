@@ -465,5 +465,6 @@ If you are curious about how we arrived at different terms, definitions, and mod
 
 - Comment on this [Google Doc](https://docs.google.com/document/d/1CxQeaZW4fckRqmPeHn9SGSnY6f2cJX5bONEJYbhVTk0/edit#).
 - [File issues](https://github.com/mozilla/olm-whitepaper/issues) on GitHub.
+- Follow this series of [weeknotes\(https://medium.com/@chadsansing/open-leadership-map-weeknote-1-4f0c4b1b7798), or weekly updates, about the project.
 - Email [Chad Sansing](mailto:chad@mozillafoundation.org).
 - Join us for [office hours](https://public.etherpad-mozilla.org/p/olm-whitepaper-office-hours) or a [community call](https://public.etherpad-mozilla.org/p/olm-whitepaper-call). 
