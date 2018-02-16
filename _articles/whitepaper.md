@@ -146,6 +146,10 @@ Across contexts, open leadership is facilitative and service-oriented in that it
 
 Of course, these benefits come with costs. It takes time and effort to open a closed project, to resolve conflicts, and to make decisions that stay true to openness. It takes time to design, test, and improve systems. There aren’t shortcuts to accountability, equity, and transparency. Being open often means being messy. Sometimes it feels like a project is getting worse - like there are more issues and tensions to resolve than ever - before it gets better. Openness uncovers what your project and its community need to work on in terms of creating authentic, shared ownership of the work. You can only realize the benefits of this approach through a sustained commitment to a project, its people, and open principles.
 
+Open leaders follow these principles and use these practices and skills to ensure that a project and its contributors will succeed without them. They share accountability, authority, and power with their communities to focus relentlessly on users' needs and how contributors can best meet them.
+
+Agency, equity, and ownership of the work and its outcomes are distributed and decentralized in open projects to maximize their reach, relevance, and sustainability.
+
 Right now, you may be working on a closed project that you’d like to open, or you might be working on a project that practices a kind of constant, “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Map are meant to help you reflect on your work, share what you do with others, and take your next step to grow as a leader.
 
 Shortly, we’ll take a closer look at how **designing**, **building**, and **empowering** for **understanding**, **sharing**, and **participation and inclusion** break down into specific skills and competencies below.
