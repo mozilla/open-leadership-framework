@@ -7,6 +7,7 @@ toc:
 - "What is open?"
 - "What is open leadership?"
 - "Open leadership is not..."
+- "How is open leadership different?"
 - "How do individuals benefit from open leadership?"
 - "How does open leadership benefit the user?"
 - "The Open Leadership Map"
