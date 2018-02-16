@@ -249,6 +249,8 @@ A breakdown of each section follows.
   - Defines and manages the openness of core content like products and services.
 - Community interaction: learning through use
   - Strategically structures community engagement opportunities to generate data and feedback that can be used to improve the work.
+- Storytelling
+  - Develops case studies, examples, and stories that engage contributors and users by illustrating the need for a project, its vision, and its goals or outcomes.
 
 ### Design for Sharing
 
@@ -269,6 +271,8 @@ A breakdown of each section follows.
   - Strategically structures community engagement opportunities to encourage adoption and use by inviting process-based co-creation of information and content through contributions and shared decision-making.
 - Community interaction: soliciting ideas
   - Strategically structures community engagement opportunities to encourage adoption and use by researching community needs.
+- Project identity
+  - Creates formal and informal opportunities for contributors and other project participants to see one another as both whole people and as part of a team serving users through their work.
 
 ## Build
 
