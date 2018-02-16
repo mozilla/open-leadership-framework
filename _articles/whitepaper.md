@@ -172,6 +172,20 @@ Instead, open leadership requires you to:
 
 It takes rigor to practice open leadership and your contributors and communities will hold you accountable for maintaining the openness of your shared work.
 
+## How is open leadership different?
+
+In many ways, open leadership is like other forms of good or effective leadership. The best leaders find ways to empower people through work, recognition, and experiences that speak to individual and collective needs in fulfilling ways.
+However, open leaders hold themselves accountable to a wider audience of contributors and users than traditional leaders do. They:
+
+- Locate agency, ownership, and recognition within their communities of contributors and users, not only within themselves. Their power is the ability to give away power. They share authority and decision-making, delegate responsibilities, and mentor community members to the point of their own obsolescence.
+- Help change systems in response to contributors and users' needs. Rather than always follow a single approach, they commit to a larger, encompassing, meta-framework that ensures accountability and transparency in whatever systems they create, adopt, or adapt with their communities.
+- Carry a responsibility to share governance, content-creation, and information equitably between themselves and contributors who may be volunteers, rather than staffers, from a variety of professional and local contexts.
+- Open their projects to the widest possible diversity of contributors which requires especially mindful matchmaking, mentoring, and community management.
+- Depend on others to help lead their communities asynchronously, across cultures, geographies, and time zones.
+- Consciously choose to follow the principles, practices, and skills of working open and open leadership as their particular pathway to good, effective, or even great leadership. They design, build, and empower their projects and communities for understanding, sharing, and participation and inclusion. They use these principles and practices to hold themselves accountable to their contributors and users' feedback and needs in dynamic, transparent ways.
+
+Open leaders are experts in helping each project meet its community's needs. They help others see openness as the abundant presence of the systems and people they need to succeed.
+
 ## How do individuals benefit from open leadership?
 
 Contributing to an open community or project can be an altruistic act, but such contributions also carry benefit for the individual.
