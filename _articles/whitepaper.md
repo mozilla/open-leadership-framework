@@ -6,8 +6,9 @@ toc:
 - "Who and what is this white paper for?"
 - "What is open?"
 - "What is open leadership?"
+- "Open leadership is not..."
 - "How do individuals benefit from open leadership?"
-- "Open Leadership is not..."
+- "How does open leadership benefit the user?"
 - "The Open Leadership Map"
 - "Design"
 - "Build"
@@ -82,7 +83,14 @@ This white paper represents our best effors to develop a framework for open lead
 - Develop an open leadership curriculum aligned with map.
 - Develop programming and events aligned with the map.
 
-The white paper is meant to be a framework and foundation for later work, and, as such, it is not meant to be a practical guide or curriculum just yet.
+The white paper is meant to be a framework and foundation for later work, and, as such, it is not meant to be a practical guide or curriculum just yet. Moreover, the map itself will likely evolve over time as we discover more use cases for it in our work and in our wider community's work to share open practices. While it is in some ways limiting to start with any particular set of principles and practices, we believe it's important to share what we know and make this contribution to ongoing conversations about working open and open leadership in the world.
+
+If you're curious about the kinds of use cases we evision and plan for the map, you can review and test these prototypes: 
+
+- [Self assessment](https://docs.google.com/forms/d/e/1FAIpQLSds8B2aj6K0h7EwdKDBdqpIkGxReyOgrA4QRhrLim-Ags4rUw/viewform?usp=sf_link)
+- [Project design assessment](https://docs.google.com/forms/d/e/1FAIpQLSesg4Uk7Znn5VawGQd99eTIlAsNyPXv9TdLeJhfYj2mxtlv4w/viewform?usp=sf_link)
+- [Project post-mortem](https://docs.google.com/forms/d/e/1FAIpQLScckWbuQuXut4y_Brp3yTr9dqPVPPwdlaxMyM_8cFLgACSFaA/viewform?usp=sf_link)
+- [Applications survey](https://docs.google.com/forms/d/e/1FAIpQLSdPKwWh_3euSwKyjAmJVSKsR_gjBkMsq-SJ48lLGrGicEQo3g/viewform?usp=sf_link)
 
 ## What is open?
 
@@ -169,6 +177,16 @@ Open leaders empower others to become open leaders in their own right. By inviti
 Contributors can benefit from the same kind of intrinsic personal and professional development as they assume more responsibility in a project and receive mentorship from other leaders in their project communities. They can also draw other kinds of extrinsic value from a project such as social capital within their professional networks, a forkable version of a project they can use in their own lives or within their networks, and any other specific benefits offered by a project or its community. 
 
 Open leaders work to make the value exchanges between themselves, their projects, and their contributors transparent and mutually beneficial.
+
+## How does open leadership benefit the user?
+
+Just as the structure of an open project or community is meant to empower its contributors, the outcome or product of an open project is meant to empower its users. Users should be able to use, study, share, and adapt an open project just as contributors do. Users should have agency and ownership over the deliverable of an open project for their own uses. This ability to interact with the outcome of an open project helps invite users to become contributors, leaders, and innovators in their own rights as they adapt and localize products for their own needs and the needs of their communities.
+
+Everything an open leader does is meant to help contributors understand their users' needs and take them into account during each step of a project. From this perspective, leaders and contributors work together to design and build projects that empower users and create social good.
+
+The ultimate goal of open leadership isn't just to create more leaders; it's to develop communities of practice full of leaders and contributors who educate and empower users with open alternatives to black-box products and products, services, and technologies that exploit them. It's not that an open project can't be profitable or collect data, it's that open projects have clear and equitable value exchanges between their creators and users. Open leaders hold themselves accountable for transparency in the relationships between projects, their contributors, and their users in ways that closed, strictly for-profit organizations and leaders do not.
+
+That commitment to making sure that users understand and benefit from a clear and balanced value exchange differentiates open leadership from other forms of good or effective leadership.
 
 ## The Open Leadership Map
 
@@ -419,7 +437,7 @@ Thank you for your leadership. We can’t wait to see what we can do together!
 
 ## Works cited
 
-- Li, Charlene. open leadership. Jossey-Bass, 2010.
+- Li, Charlene. Open Leadership. Jossey-Bass, 2010.
 - Kegan, Robert & Lahey, Lisa Laskow. An Everyone Culture. Harvard Business Review Press, 2016.
 - Klepel, Alex. “A Framework of Open Practices.” [https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3). 16 October 2017.
 - Laloux, Frederic. Reinventing Organizations. Nelson Parker, 2014.
@@ -468,3 +486,9 @@ If you are curious about how we arrived at different terms, definitions, and mod
 - Follow this series of [weeknotes](https://medium.com/@chadsansing/open-leadership-map-weeknote-1-4f0c4b1b7798), or weekly updates, about the project.
 - Email [Chad Sansing](mailto:chad@mozillafoundation.org).
 - Join us for [office hours](https://public.etherpad-mozilla.org/p/olm-whitepaper-office-hours) or a [community call](https://public.etherpad-mozilla.org/p/olm-whitepaper-call). 
+- Follow this weeknote series here or by subscribing to the [Work Open, Lead Open newsletter](https://tinyletter.com/MozOpenLeaders). 
+- Test a prototype use case.
+  - [Self assessment](https://docs.google.com/forms/d/e/1FAIpQLSds8B2aj6K0h7EwdKDBdqpIkGxReyOgrA4QRhrLim-Ags4rUw/viewform?usp=sf_link)
+  - [Project design assessment](https://docs.google.com/forms/d/e/1FAIpQLSesg4Uk7Znn5VawGQd99eTIlAsNyPXv9TdLeJhfYj2mxtlv4w/viewform?usp=sf_link)
+  - [Project post-mortem](https://docs.google.com/forms/d/e/1FAIpQLScckWbuQuXut4y_Brp3yTr9dqPVPPwdlaxMyM_8cFLgACSFaA/viewform?usp=sf_link)
+  - [Applications survey](https://docs.google.com/forms/d/e/1FAIpQLSdPKwWh_3euSwKyjAmJVSKsR_gjBkMsq-SJ48lLGrGicEQo3g/viewform?usp=sf_link)
