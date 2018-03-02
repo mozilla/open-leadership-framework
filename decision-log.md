@@ -40,7 +40,7 @@ We drew from research done by Mozilla Corporation’s [Open Innovation Strategy 
 We borrow the types of community interactions described in the map from research done by Mozilla’s Open Innovation Strategy Team. You can read more about these interactions in [this blog post](https://medium.com/mozilla-open-innovation/being-open-by-design-deec6768706).
 Pre-beta
 
-### Pre-beta
+### Alpha
  
 ***How did you develop the Open Leadership Map Theory of Change (OLM ToC)?***
 
@@ -52,6 +52,12 @@ The ToC also echoes the ambitious initial vision for this project, which saw ope
 
 We had a discussion about accessibility in [this issue](https://github.com/mozilla/olm-whitepaper/issues/13) on GitHub. We decided to test “Sharing” in the beta in an attempt to make the map, ites concepts, and its terms more inviting to people who are interested in open and/or leadership, but who may come from a non-technical background.
  
-### Pre-launch
+### Beta
+
+***Why are you changing the name of this project to the Open Leadership Map Framework?***
+
+To put it simply: we’re not ready to make a map yet, so we need to stop calling this a map.
+
+While we will continue to improve our information architecture and move towards producing a map that will help people locate themselves on their open leadership journeys, this document - the Open Leadership Map white paper - will become the Open Leadership Framework when it goes gold and gets released later in March 2018. This framework will serve as the foundation for other resources built from it and its principles, practices, and skills will begin appearing in other programming from the Open Leadership and Events (OLE) team.
  
-### Post-launch 
+### Gold/post-launch
