@@ -50,26 +50,26 @@ We know that open leaders work to empower others to become open leaders, as well
 
 ## Office hours
 
-We will hold office hours throughout the beta to collect feedback informally on a drop-in basis.
+We will hold office hours to collect feedback informally on a drop-in basis.
 
 The [office hours notes are here](https://public.etherpad-mozilla.org/p/olm-whitepaper-office-hours).
 
-Here is the schedule for office hours:
+Here is the schedule for March office hours:
 
-- 2/7/18, 12 PM - 2 PM ET, 17:00 - 19:00 UTC
-- 2/13/18, 8 AM - 10 AM ET, 13:00 - 15:00 UTC
-- 2/21/18, 3 PM - 5 PM ET, 20:00 - 22:00 UTC
+- 3/6/18, 8 AM - 10 AM ET, 12:00 - 13:00 UTC
+- 3/13/18, 12 PM - 2 PM ET, 14:00 - 16:00 UTC
+- 3/20/18, 2 PM - 4 PM ET, 16:00 - 20:00 UTC
 
 ## Community calls
 
-We will hold two community calls at the end of February to ask what's working, what's not working, and what's missing from the map.
+We will hold two community calls at the end of March to ask what's working, what's not working, and what's missing from the map.
 
 The [community call notes are here](https://public.etherpad-mozilla.org/p/olm-whitepaper-call).
 
-Here is the schedule for community calls:
+Here is the schedule for March community calls:
 
-- 2/27/18, 8 AM - 9 AM ET, 13:00 - 14:00 UTC
-- 2/27/18, 8 PM - 9 PM ET, 01:00 - 02:00 UTC
+- 3/27/18, 8 AM - 9 AM ET, 12:00 - 13:00 UTC
+- 3/27/18, 8 PM - 9 PM ET, 00:00 - 01:00 UTC
 
 ## What kinds of skills do I need to contribute?
 
