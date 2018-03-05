@@ -133,7 +133,7 @@ These goals and their strategic benefits might look slightly different across co
 
 For example, different types of organizations might realize these benefits slightly differently.
 
-![A table showing the benefits of openness to for-profit, non-profit, advocacy-based, and public sector organizations concerning improved quality, improved efficiency, and improved reach](images-il8n/why-open-table.png)
+![A table showing the benefits of openness to for-profit, non-profit, advocacy-based, and public sector organizations concerning improved quality, improved efficiency, and improved reach](images/why-open-table.png)
 
 Across contexts, open leadership is facilitative and service-oriented in that it helps communities of contributors and users create relevant, functional solutions to personally and collectively meaningful problems through shared accountability, agency, decision-making, ownership, and responsibility.
 
@@ -225,7 +225,7 @@ Not every community, organization, or project works towards all of those objecti
 
 This Open Leadership Map suggests areas of focus you can concentrate on during your open leadership journey to achieve these goals. **To use the map, consider your objective(s) and look at the principles, actions, and embedded skills that might best help you reach your goals.**
 
-![A table or map showing the embedded skills that align with each principle and action of open leadership](images-il8n/olm-framework-bw.png)
+![A table or map showing the embedded skills that align with each principle and action of open leadership](images/olm-framework-bw.png)
 
 We’ll dive into each section of the map below.
 
@@ -235,7 +235,7 @@ A quick note: we've borrowed a list of [6 "community interactions"](https://medi
 
 These are the strategic prompts Open Leaders use to set goals and determine the levels of openness their projects will have in terms of operations and interactions with their communities. This is how Open Leaders decide what to share, how to share it, and why to share it that way. Open Leaders use the skills and practices of **design** to boost the quality of their work and extend its reach.
 
-![This organizer shows the actions and embedded skills of Design](images-il8n/olm-design.png)
+![This organizer shows the actions and embedded skills of Design](images/olm-design.png)
 
 When you design, you remain open to:
 
@@ -285,7 +285,7 @@ A breakdown of each section follows.
 
 These are the concrete principles, skills, and competencies Open Leaders need to structure and manage projects and communities. This is how Open Leaders define a project and establish its guidelines and workflow.
 
-![This organizer shows the actions and embedded skills of Build](images-il8n/olm-build.png)
+![This organizer shows the actions and embedded skills of Build](images/olm-build.png)
 
 When you build your project or organization, you remain open to:
 
@@ -373,7 +373,7 @@ A breakdown of each build sections follows.
 
 These are personal leadership competencies and skills Open Leaders use to share capacity, passion, and power within and across projects, organizations, communities, and networks. This is how Open Leaders manage themselves to spread vision, passion, projects and openness.
 
-![This organizer shows the actions and embedded skills of Empower](images-il8n/olm-empower.png)
+![This organizer shows the actions and embedded skills of Empower](images/olm-empower.png)
 
 When you empower others, you remain open to:
 
@@ -488,7 +488,7 @@ The content of this white paper is licensed [CC BY 4.0](https://creativecommons.
 
 ## Appendix A - Open Leadership Map Theory of Change
 
-![This graphic illustrates the Open Leadership Map Theory of Change which results in greater worldwide adoption and application of open principles and practices across organizations, communities, and states](images-il8n/olm-toc.png)
+![This graphic illustrates the Open Leadership Map Theory of Change which results in greater worldwide adoption and application of open principles and practices across organizations, communities, and states](images/olm-toc.png)
 
 ## Appendix B - Open Leadership Map decision log
 
