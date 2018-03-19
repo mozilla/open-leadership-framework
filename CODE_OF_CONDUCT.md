@@ -1,4 +1,4 @@
-# Open Leadership Map Whitepaper Participation Guidelines
+# Open Leadership Framework Participation Guidelines
 
 ## Code of Conduct
 

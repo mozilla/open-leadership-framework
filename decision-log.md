@@ -1,4 +1,4 @@
-# Open Leadership Map decision log
+# Open Leadership Framework decision log
 ### *Capturing conversations about the OLM*
 
 ## White paper decisions
@@ -17,21 +17,21 @@ Since MIT and Mozilla partner to deliver the camp’s curriculum, we wanted to a
 
 ***Why are participation and inclusion grouped together?***
 
-We believe that any efforts a community. leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the map and its design, we paired Participation & inclusion at Mark Surman’s suggestion.
+We believe that any efforts a community. leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the map and its design, we paired **participation & inclusion** at Mark Surman’s suggestion.
 
-***Why does the map use*** Design***,*** Build***, and*** Empower ***as its practices?***
+***Why does the map use **Design**, **build**, and **empower** as its practices?***
 
-A very early draft of the white paper focused on the skills on the current Build section of the map. Much of our past work focuses on the workflows and tooling open projects need to be both open and successful. We had a good grasp on how to teach people to build projects, which, of course, included elements of Design and Empower, but more of documentation skewed towards the kinds of things one would practice as part of Build.
+A very early draft of the white paper focused on the skills on the current **build** section of the map. Much of our past work focuses on the workflows and tooling open projects need to be both open and successful. We had a good grasp on how to teach people to build projects, which, of course, included elements of **design** and **empower**, but more of documentation skewed towards the kinds of things one would practice as part of **build**.
 
-We wanted to surface and unpack Design as a practice that helps open leaders and their communities make decisions and establish the systems they need to build any project. We wanted to surface and unpack Empower as a practice that helps open leaders maintain their core vision and values while opening pathways of personal and professional growth and  leadership for their contributors.
+We wanted to surface and unpack **design** as a practice that helps open leaders and their communities make decisions and establish the systems they need to build any project. We wanted to surface and unpack **empower** as a practice that helps open leaders maintain their core vision and values while opening pathways of personal and professional growth and  leadership for their contributors.
 
-These three words best capture what we believe to be the core practices of Open Leadership through we have discussed other “containers” (e.g. Make, Share, Do) and used parts of past conversations to inform the white paper and its definitions of Design, Build, and Empower.
+These three words best capture what we believe to be the core practices of Open Leadership through we have discussed other “containers” (e.g. Make, Share, Do) and used parts of past conversations to inform the white paper and its definitions of **design**, **build**, and **empower**.
 
 ***Why aren’t there any levels of open leadership or others markers of personal or professional progression or development?***
 
 We believe that open leadership is a journey or spectrum of personal and professional development. Given that idea of open leadership, we decided it was not important or always beneficial to group or sort people by “leadership level” or another construct. Instead, we want the white paper and map to provide people with a tool they can use to self-identify areas of strength and and areas of learning they’d like to pursue through direct experience (including Mozilla programming developed to complement the map) regardless of where they choose to begin on the map. We will “level” our programming so that people who use Mozilla’s Open Leadership resources find helpful and relevant support, and we will look at how people move through our programming (or not) to improve it, but we won’t insist on tracking people or limiting their Open Leadership practices through any kind leveling. The principles, practices, and skills of Open Leadership make it something we can all practice in any part of a community or project.
 
-***How did you determine the benefits of Open Leadership?***
+***How did you determine the benefits of open leadership?***
 
 We drew from research done by Mozilla Corporation’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation) and research done in our Hive learning communities by Rafi Santo and [Hive Research Lab](https://hiveresearchlab.org/). The benefits we cite also correlate to the benefits of open listed in [“The Open Organization Definition“](https://github.com/open-organization-ambassadors/open-org-definition/blob/master/open_org_definition.md) from  [Opensource.com](https://opensource.com/).
 
@@ -42,19 +42,19 @@ Pre-beta
 
 ### Alpha
  
-***How did you develop the Open Leadership Map Theory of Change (OLM ToC)?***
+***How did you develop the Open Leadership Framework Theory of Change (OLM ToC)?***
 
 We drafted the OLM ToC in response to our first alpha community call and modeled it after other ToC documents used internally to describe the scope and ambitions of projects like our fellows programs.
 
 The ToC also echoes the ambitious initial vision for this project, which saw open leadership as a lever for global change for good.
 
-***Why did you change “Extensibility” to “Sharing” in the beta?***
+***Why did you change “extensibility” to “sharing” in the beta?***
 
 We had a discussion about accessibility in [this issue](https://github.com/mozilla/olm-whitepaper/issues/13) on GitHub. We decided to test “Sharing” in the beta in an attempt to make the map, ites concepts, and its terms more inviting to people who are interested in open and/or leadership, but who may come from a non-technical background.
  
 ### Beta
 
-***Why are you changing the name of this project to the Open Leadership Map Framework?***
+***Why are you changing the name of this project to the Open Leadership Framework?***
 
 To put it simply: we’re not ready to make a map yet, so we need to stop calling this a map.
 

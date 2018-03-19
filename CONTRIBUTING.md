@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-#Open Leadership Map white paper Contribution Guidlines
-=======
-# Open Leadership Map Whitepaper Contribution Guidlines
->>>>>>> origin/master
+# Open Leadership Framework Contribution Guidlines
 
-You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Map white paper. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
+You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Framework. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
 
 ## Getting Started with Open
 
@@ -24,7 +20,7 @@ You can contribute to this white paper in any way that makes sense to you.
 
 GitHub can be challenging for new users. If you experience difficulty with it, you are not alone. We want to help you overcome those challenges or find a way to contribute that works for you.
 
-For this project, we can use a feature called the "Issue Tracker" in GitHub to communicate with one another. It's kind of like a shared message board combined with a to-do list. To address an issue to a specific person, you add their name to the issue the same way you would to a tweet, like this for example: @chadsansing would address your message to Chad, the contact person for this project.
+For this project, we can use a feature called the "Issue Tracker" in GitHub to communicate with one another. It's kind of like a shared message board combined with a to-do list. To address an issue to a specific person, you add their name to the issue the same way you would to a tweet, like this for example: @chadsansing would address your message to Chad, the project lead.
 
 If the Issue Tracker is too difficult to use, contact Chad. He will work with you and help you find a way to contribute no matter what.
 
