@@ -1,52 +1,43 @@
-# The Open Leadership Map white paper README
+# The Open Leadership Framework README
 
 Project lead and contact: [Chad Sansing](mailto:chad@mozillafoundation.org)
 
-## Description
+**Note:** We are busy updating our Open Leadership Map white paper language into the Open Leadership Framework. Please excuse us as we make incremental changes in the open. We will have an "official" launach later in H1, 2018, once our edits and new content are set.  
 
-At the Mozilla Foundation, we’ve been asking ourselves questions like these:
+## Background
 
-- What’s the best way to support leaders in the movement for Internet health?
-- What does Open Leadership look like and how does it connect to the principles of openness and working open?
-- What might happen if we help ourselves and others become more open by design than open by default?
+What is open leadership? What makes it different from leadership, alone? How can we help make it a renewable resource that inspires virtuous loops of community participation and contribution to problem-solving worldwide? How can we help open leaders make their efforts to promote Internet health 
+as inclusive, inviting, and empowering as possible?
 
-In pursuit of answers, we’ve begun developing an Open Leadership Map not unlike our Web Literacy Map.
+In pursuit of answers to questions like those, we’ve been developing an Open Leadership Framework. The aim of the framework is to establish an adaptable set of open leadership principles, practices, and skills that people can use for personal and professional development as part of an open community or project. More practical resources built from this framework -  like guides, curriculum, programming, and events - will come later. 
 
-***We think of Open Leadership as a set of principles, practices, and skills people can use to mobilize their communities to solve shared problems and achieve shared goals.*** The goal of the map is to illustrate how those principles, practices, and skills relate to one another.
+At Mozilla, we’re passionate about working open. This framework is our latest entry into ongoing conversations about what it means to work and lead open in today’s world.
 
-These are the principle of openness that drive development of the map:
-
-- ***Understanding:*** open projects are accessible and clear.
-- ***Sharing:*** open projects are easy to adapt, reproduce, and spread.
-- ***Participation & inclusion:*** open projects empower contributors; they own the work through accountability, transparency, and shared decision-making.
-
-And these are the practices of Open Leadership that enact those principles. Open leaders:
-
-- ***Design*** projects for contributors and users’ needs and capacities.
-- ***Build*** systems and solutions that maximize a project’s clarity, usability, participation, and inclusiveness.
-- ***Empower*** contributors to own the work through transparency, accountability, and shared decision-making.
-
-Combining those principles and practices, our map might look something like this:
+We believe that open leaders design, build, and empower for understanding, sharing, and participation and inclusion.
 
 ![A table showing the skills of open leadership grouped by principle and practice](images/olm-framework-bw.png)
 
-We’ve included skills drawn from Mozilla’s own experience with working open, literature about organizational evolution and psychology, and research done by Mozilla’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation).
+In the short-term, we hope the framework contributes to conversations about how to work open and enact the principles, practices, and skills of open leadership. In the long-term, we hope the map helps increase public demand for an open Web and society through projects and products that fulfill users’ needs for agency, authenticity, and ownership.
 
-***We would love to know what you think.*** [This white paper](https://mozilla.github.io/olm-whitepaper/whitepaper/) (and it's [Google Doc version](https://docs.google.com/document/d/1CxQeaZW4fckRqmPeHn9SGSnY6f2cJX5bONEJYbhVTk0/edit#heading=h.daj7ikbuxrpq)) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
+## Get involved!
 
-We would love to know:
+You can visit the framework to check it out for yourself and think about how it relates to your understanding and practice of open leadership.
 
-- What works for you? What makes the most sense or seems most clear?
-- What doesn’t work for you? What seems confusing or in conflict with your understanding of openness?
-- What’s missing?
+You should feel free to adapt, criticize, question, remix, and repurpose the framework for your own work. It’s a living document and pushback is welcome and necessary to improve it.
 
-If you have the time and passion to contribute to this project, you can comment on the Google Doc, file issues on GitHub, or send your feedback by email. We estimate that it takes 1-2 hours to review the white paper. You can also join us for office hours and community calls in February. You can find those schedules below.
+You can also review these personas and use-cases to see how the framework might apply to your work, projects, and communities.
 
-***Our public beta will run from February 4th, through February 28th, 2018.*** During that time, the Open Leadership & Events Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from open to closed.
+If you’d like to discuss the framework further, you can send questions and suggestions directly to project lead [Chad Sansing](mailto:chad@mozillafoundation.org).
 
-We know that open leaders work to empower others to become open leaders, as well, and we supremely appreciate your leadership in moving this work ahead.
+Finally, if you’d like to see examples of the Open Leadership Framework at work across Mozilla’s network and the movement for Internet Health, check out these opportunities to get involved with open leadership programming:
 
-*Please help us spread this call to action by sharing this post on social media with the hashtag #WOLO, for “work open, lead open.”*
+- [Fellowships](https://foundation.mozilla.org/opportunity/fellowships/)
+- [Global Sprint](https://mozilla.github.io/global-sprint/)
+- [Internet Health Report](https://internethealthreport.org/)
+- [MozFest](https://mozillafestival.org/)
+- [Open Leaders](https://mozilla.github.io/leadership-training/)
+- [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101)
+- [Open Leadership Training Series](https://mzl.la/open-leadership)
 
 ## Office hours
 
@@ -73,7 +64,7 @@ Here is the schedule for March community calls:
 
 ## What kinds of skills do I need to contribute?
 
-You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Map white paper. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
+You don't need any special technical skills to contribute to this project. We will work with you to find a way to gather your feedback on this public alpha of the Open Leadership Framework. There are many ways to contrbiute regardless of your experience level with GitHub or working open.
 
 ## Are you new to open leadership or working open?
 
@@ -128,6 +119,8 @@ If you'd like to learn even more about GitHub, check out the [*GitHub for Collab
 
 ## What's next?
 
-As noted above, ***our public beta will run from February 4th, through February 28th, 2018.*** During that time, the Open Leadership Team at the Mozilla Foundation will meet weekly to discuss comments, prioritize pieces of feedback, and revise the document. We will prioritize feedback that helps us make this document as accessible as possible to people wondering how they might begin an open project or begin the process of moving a project or organization from closed to open.
+Look for our "official" relase of the Open Leadership Framework later in H1, 2018.
 
-We will launch a "gold" version of the Open Leadership Map white paper later in H1, 2018.
+## Thank you! 
+
+We are so grateful for your time, attention, and leadership! Let us know how we might best move forward together.
