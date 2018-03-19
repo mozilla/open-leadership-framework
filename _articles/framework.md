@@ -511,4 +511,3 @@ If you are curious about how we arrived at different terms, definitions, and mod
   - [Self assessment](https://docs.google.com/forms/d/e/1FAIpQLSds8B2aj6K0h7EwdKDBdqpIkGxReyOgrA4QRhrLim-Ags4rUw/viewform?usp=sf_link)
   - [Project design assessment](https://docs.google.com/forms/d/e/1FAIpQLSesg4Uk7Znn5VawGQd99eTIlAsNyPXv9TdLeJhfYj2mxtlv4w/viewform?usp=sf_link)
   - [Project post-mortem](https://docs.google.com/forms/d/e/1FAIpQLScckWbuQuXut4y_Brp3yTr9dqPVPPwdlaxMyM_8cFLgACSFaA/viewform?usp=sf_link)
-  - [Applications survey](https://docs.google.com/forms/d/e/1FAIpQLSdPKwWh_3euSwKyjAmJVSKsR_gjBkMsq-SJ48lLGrGicEQo3g/viewform?usp=sf_link)
