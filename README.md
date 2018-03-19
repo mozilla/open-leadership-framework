@@ -2,7 +2,7 @@
 
 Project lead and contact: [Chad Sansing](mailto:chad@mozillafoundation.org)
 
-**Note:** We are busy updating our Open Leadership Map white paper language into the Open Leadership Framework. Please excuse us as we make incremental changes in the open. We will have an "official" launach later in H1, 2018, once our edits and new content are set.  
+**Note:** We are busy updating our Open Leadership Map white paper language into the Open Leadership Framework. Please excuse us as we make incremental changes in the open. We will have an "official" launch later in H1, 2018, once our edits and new content are set.  
 
 ## Background
 
