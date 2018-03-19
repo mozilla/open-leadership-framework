@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "White Paper"
+title: "Open Leadership Framework"
 toc:
 - "Hello & welcome!"
-- "Who and what is this white paper for?"
+- "Who and what is this framework for?"
 - "What is open?"
 - "What is open leadership?"
 - "Open leadership is not..."
 - "How is open leadership different?"
 - "How do individuals benefit from open leadership?"
 - "How does open leadership benefit the user?"
-- "The Open Leadership Map"
+- "The Open Leadership Framework"
 - "Design"
 - "Build"
 - "Empower"
@@ -18,12 +18,12 @@ toc:
 - "Works cited"
 - "Recommended reading"
 - "License"
-- "Appendix A - Open Leadership Map Theory of Change"
-- "Appendix B - Open Leadership Map decision log"
+- "Appendix A - Open Leadership Framework Theory of Change"
+- "Appendix B - Open Leadership Framework decision log"
 - "Appendix C - How to contribute"
 ---
 
-# Open Leadership Map white paper v.0.5 (public beta)
+# Open Leadership Framework
 
 * TOC
 {:toc}
@@ -48,11 +48,13 @@ Some big ideas connected to [Internet health](https://internethealthreport.org/)
 
 Think of Internet health and these big ideas as the “what” and “why” of what we do. Our commitment to these core values drives our work.
 
-Open Leadership is the “how” of our work. It’s how we accomplish our work in communities, organizations, and projects. open leadership encompases the processes and resources we use to support Internet health for everyone’s benefit.
+Open leadership is the “how” of our work. It’s how we accomplish our work in communities, organizations, and projects. open leadership encompases the processes and resources we use to support Internet health for everyone’s benefit.
 
 Open leaders “work open.” They work collaboratively, sharing the ownership of  ideas, resources, and outcomes with contributors, while building powerful, diverse communities to support and direct projects and organizations. They also set the conditions for others to do the same, ensuring accountability, equity, and transparency in a project and its community.
 
 Here are some examples of how Open Leaders work on the “what” and “why” of their projects and organizations:
+
+- [Mozilla](https://mozilla.org) began its life as an [open-source project](https://www.youtube.com/watch?v=quKdaqlR_9w) to create a web browser that would break corporate monopolies over the web.
 
 - In [The Mozilla Italia l10n Guide](https://medium.com/read-write-participate/mozilla-italia-l10n-guide-e6f6d36b45bb), Sara Todaro uses [Contributing Guidelines](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/blob/master/CONTRIBUTING.md) to outline how others can participate in the project.
 
@@ -68,30 +70,24 @@ Here are some examples of how Open Leaders work on the “what” and “why” 
 
 - Jim Whitehurst, CEO of [RedHat](https://www.redhat.com/en/explore/the-open-organization-book), oversees an “inclusive” decision-making process that provides employees with the opportunity to weigh in on decisions that affect them and to get all the information they need to address their concerns before giving feedback. (Whitehurst, 2014).
 
-This white paper will help you understand, adapt, and use open leadership practices to further your work in the Internet health movement and beyond.
+This framework will help you understand, adapt, and use open leadership practices to further your work in the Internet health movement and beyond.
 
-Together, we can use the principles and practices of open leadership to build a healthy Internet reflective of the society we want to see in the world. We are glad to be doing this work alongside you. Welcome to the Mozilla Network!
+Together, we can use the principles and practices of open leadership to build a healthy Internet reflective of the society we want to see in the world. We are glad to be doing this work alongside you. Thank your for leadership and for sharing your open journey with us!
 
-## Who and what is this white paper for?
+## Who and what is this framework for?
 
-This white paper is for anyone who shares our passion for openness, working open, and open leadership. It is meant for readers from both technical and non-technical backgrounds who want to use open leadership as a means to improve their work, help their communities, and further their personal and professional growth.
+This framework is for anyone who shares our passion for openness, working open, and open leadership. It is meant for readers from both technical and non-technical backgrounds who want to use open leadership as a means to improve their work, help their communities, and further their personal and professional growth.
 
-We're asking readers who share our interest in open leadership to help us create a framework of open leadership principles, practices, and skills that describe how and why to apply them for the benefit of communities, contributors, and projects.
+The aim of the framework is to establish an adaptable set of open leadership principles, practices, and skills that people can use for personal and professional development as part of an open community or project. More practical resources built from this framework -  like guides, curriculum, programming, and events - will come later.
 
-This white paper represents our best effors to develop a framework for open leadership that we will use later to
+The framework is meant to be a foundation for later work, and, as such, it is not meant to be a practical guide or curriculum just yet. Moreover, the framework itself will likely evolve over time as we discover more use cases for it in our work and in our wider community's work to share open practices. While it is in some ways limiting to start with any particular set of principles and practices, we believe it's important to share what we know and make this contribution to ongoing conversations about working open and open leadership in the world.
 
-- Develop an Open Leadership Map. This will be some kind of illustrated tool people can use to explore the principles, practices, and skills defined below and to find curriculum and programming connected to each of those.
-- Develop an open leadership curriculum aligned with map.
-- Develop programming and events aligned with the map.
-
-The white paper is meant to be a framework and foundation for later work, and, as such, it is not meant to be a practical guide or curriculum just yet. Moreover, the map itself will likely evolve over time as we discover more use cases for it in our work and in our wider community's work to share open practices. While it is in some ways limiting to start with any particular set of principles and practices, we believe it's important to share what we know and make this contribution to ongoing conversations about working open and open leadership in the world.
-
-If you're curious about the kinds of use cases we evision and plan for the map, you can review and test these prototypes: 
+If you're curious about the kinds of use cases we evision and plan for the framework, you can review and test these prototypes: 
 
 - [Self assessment](https://docs.google.com/forms/d/e/1FAIpQLSds8B2aj6K0h7EwdKDBdqpIkGxReyOgrA4QRhrLim-Ags4rUw/viewform?usp=sf_link)
 - [Project design assessment](https://docs.google.com/forms/d/e/1FAIpQLSesg4Uk7Znn5VawGQd99eTIlAsNyPXv9TdLeJhfYj2mxtlv4w/viewform?usp=sf_link)
 - [Project post-mortem](https://docs.google.com/forms/d/e/1FAIpQLScckWbuQuXut4y_Brp3yTr9dqPVPPwdlaxMyM_8cFLgACSFaA/viewform?usp=sf_link)
-- [Applications survey](https://docs.google.com/forms/d/e/1FAIpQLSdPKwWh_3euSwKyjAmJVSKsR_gjBkMsq-SJ48lLGrGicEQo3g/viewform?usp=sf_link)
+
 
 ## What is open?
 
@@ -103,11 +99,11 @@ These three principles help define openness:
 - **Sharing:** You make the work easy to adapt, reproduce, and spread.
 - **Participation & inclusion:** You build shared ownership and agency with contributors through accountability, equity, and transparency to make the work inviting, relevant,  safe, and sustainable for all.
 
-We believe that it is important to work intentionally and mindfully towards ***Understanding***. Here, ***Understanding*** means not only being accessible, but also being transparent in how a community or project is structured, how it makes decisions and does it work, and how it shares that work and news about it with contributors and users.
+We believe that it is important to work intentionally and mindfully towards ***Understanding***. Here, **understanding** means not only being accessible, but also being transparent in how a community or project is structured, how it makes decisions and does it work, and how it shares that work and news about it with contributors and users.
 
-We beieve that it is important to ensure the ***Sharing*** of an open community or project. The value of openness comes in large part from how it empowers others to adapt and continue the work they contrbiuted to for their own uses and the uses of their networks and communities outside any original project.
+We beieve that it is important to ensure the **sharing** of an open community or project. The value of openness comes in large part from how it empowers others to adapt and continue the work they contrbiuted to for their own uses and the uses of their networks and communities outside any original project.
 
-We believe that any efforts a community. leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the map and its design, we paired ***participation & inclusion***.
+We believe that any efforts a community. leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the framework and its design, we paired **participation & inclusion**.
 
 At its core, being “open” is about structuring any project or organization, technical or not, to invite the widest possible diversity of contributors from outside your organization's boundaries. Who are contributors? People who give time, expertise, and labor to a project. A project that supports diverse contributors creates an inclusive community of people working together because of the interests and passions they share. That community includes new “insiders” who may have once felt like they were “outsiders” - people outside of a community, organization, or project's notional boundaries who join a project because of shared expertise, interests, and passions.  
 
@@ -121,7 +117,7 @@ Leads and contributors can also open projects that are not only or essentially t
 
 The altruism and idealism of openness connect people to one another through projects and organizations that invite them to build together for social good.
 
-However, not every open project or organization is fully open. Requiring a project or organization to open everything all the time would be a high barrier to entry. The Open Leadership Map (shared below)  is meant to help you think intentionally and strategically about when, how, and why to work open according to the needs of your contributors and community, whether they’re employees or volunteers, and whether you’re part of a fully open, community-serving social enterprise, non-profit, or research project or something else, like a for-profit company. The big idea is to discover how you can lead your project or organization to be more open, inclusive, and effective in making a difference in your contributors’ lives and in the world through increasingly open practices. Our intent is to help you, your community, and your project be "open by design," not only "open by default."
+However, not every open project or organization is fully open. Requiring a project or organization to open everything all the time would be a high barrier to entry. The Open Leadership Framework (shared below)  is meant to help you think intentionally and strategically about when, how, and why to work open according to the needs of your contributors and community, whether they’re employees or volunteers, and whether you’re part of a fully open, community-serving social enterprise, non-profit, or research project or something else, like a for-profit company. The big idea is to discover how you can lead your project or organization to be more open, inclusive, and effective in making a difference in your contributors’ lives and in the world through increasingly open practices. Our intent is to help you, your community, and your project be "open by design," not only "open by default."
 
 ## What is open leadership?
 
@@ -151,13 +147,13 @@ Open leaders follow these principles and use these practices and skills to ensur
 
 Agency, equity, and ownership of the work and its outcomes are distributed and decentralized in open projects to maximize their reach, relevance, and sustainability.
 
-Right now, you may be working on a closed project that you’d like to open, or you might be working on a project that practices a kind of constant, “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Map are meant to help you reflect on your work, share what you do with others, and take your next step to grow as a leader.
+Right now, you may be working on a closed project that you’d like to open, or you might be working on a project that practices a kind of constant, “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Framework are meant to help you reflect on your work, share what you do with others, and take your next step to grow as a leader.
 
-Shortly, we’ll take a closer look at how **designing**, **building**, and **empowering** for **understanding**, **sharing**, and **participation and inclusion** break down into specific skills and competencies below.
+Shortly, we’ll take a closer look at how **designing**, **building**, and **empowering** for **understanding**, **sharing**, and **participation & inclusion** break down into specific skills and competencies below.
 
 ## Open leadership is not…
 
-Let’s pause for a moment and clear up a few common misconceptions about open leadership before we look at the Open Leadership Map.
+Let’s pause for a moment and clear up a few common misconceptions about open leadership before we look at the Open Leadership Framework.
 
 Open Leadership is not (Thompson, 2011):
 
@@ -176,6 +172,7 @@ It takes rigor to practice open leadership and your contributors and communities
 ## How is open leadership different?
 
 In many ways, open leadership is like other forms of good or effective leadership. The best leaders find ways to empower people through work, recognition, and experiences that speak to individual and collective needs in fulfilling ways.
+
 However, open leaders hold themselves accountable to a wider audience of contributors and users than traditional leaders do. They:
 
 - Locate agency, ownership, and recognition within their communities of contributors and users, not only within themselves. Their power is the ability to give away power. They share authority and decision-making, delegate responsibilities, and mentor community members to the point of their own obsolescence.
@@ -195,7 +192,7 @@ Open leaders empower others to become open leaders in their own right. By inviti
 
 Contributors can benefit from the same kind of intrinsic personal and professional development as they assume more responsibility in a project and receive mentorship from other leaders in their project communities. They can also draw other kinds of extrinsic value from a project such as social capital within their professional networks, a forkable version of a project they can use in their own lives or within their networks, and any other specific benefits offered by a project or its community. 
 
-Open leaders work to make the value exchanges between themselves, their projects, and their contributors transparent and mutually beneficial.
+Open leaders work to make the value exchanges between themselves, their projects, and their contributors transparent and mutually and equitably beneficial.
 
 ## How does open leadership benefit the user?
 
@@ -203,11 +200,11 @@ Just as the structure of an open project or community is meant to empower its co
 
 Everything an open leader does is meant to help contributors understand their users' needs and take them into account during each step of a project. From this perspective, leaders and contributors work together to design and build projects that empower users and create social good.
 
-The ultimate goal of open leadership isn't just to create more leaders; it's to develop communities of practice full of leaders and contributors who educate and empower users with open alternatives to black-box products and products, services, and technologies that exploit them. It's not that an open project can't be profitable or collect data, it's that open projects have clear and equitable value exchanges between their creators and users. Open leaders hold themselves accountable for transparency in the relationships between projects, their contributors, and their users in ways that closed, strictly for-profit organizations and leaders do not.
+The ultimate goal of open leadership is to develop communities of practice full of leaders and contributors who educate and empower users with open alternatives to black-box products and products, services, and technologies that exploit them. It's not that an open project can't be profitable or collect data, it's that open projects have clear and equitable value exchanges between their creators and users. Open leaders hold themselves accountable for transparency in the relationships between projects, their contributors, and their users in ways that closed, strictly for-profit organizations and leaders do not.
 
 That commitment to making sure that users understand and benefit from a clear and balanced value exchange differentiates open leadership from other forms of good or effective leadership.
 
-## The Open Leadership Map
+## The Open Leadership Framework
 
 Open leadership is a set of practices and skills people can use to mobilize their communities to solve shared problems and achieve shared goals.
 
@@ -217,7 +214,7 @@ Open leaders are guided by open **principles**. They strive for:
 - **Sharing:** They make the work easy to adapt, reproduce, and spread.
 - **Participation & inclusion:** They make the work inviting, relevant, and safe for all.
 
-To apply these principles, open leaders take these **actions**. They:
+To apply these principles, open leaders take these **practices**. They:
 
 - **Design:** They make contextual, deliberate decisions about how and when to be open.
 - **Build:** They create structures, and systems that ensure clarity and process-based management.
@@ -229,19 +226,19 @@ As a result, open leaders and their communities, organizations, and projects wor
 - Discover new, innovative solutions that make sense to them.
 - Increase the discoverability, reach, lifespan and usefulness of their work.
 
-Not every community, organization, or project works towards all of those objectives, principles, or actions at once. Instead, open leaders work with their contributors - the people who give their time, talent, and expertise to a project - to focus on the elements that will help them achieve shared goals. For example, a local project might first work to ***improve efficiency***, ***quality***, and ***relevance***. Later, it might share more to ***increase the discoverability***, ***reach***, ***lifespan*** and ***usefulness*** of its work. Then another community could ***discover new***, ***innovative solutions*** localized for them.
+Not every community, organization, or project works towards all of those objectives, principles, or actions at once. Instead, open leaders work with their contributors - the people who give their time, talent, and expertise to a project - to focus on the elements that will help them achieve shared goals. For example, a local project might first work to **improve efficiency**, **quality**, and **relevance**. Later, it might share more to **increase the discoverability**, **reach**, **lifespan** and **usefulness** of its work. Then another community could ***discover new***, **innovative solutions** localized for them.
 
-This Open Leadership Map suggests areas of focus you can concentrate on during your open leadership journey to achieve these goals. **To use the map, consider your objective(s) and look at the principles, actions, and embedded skills that might best help you reach your goals.**
+This Open Leadership Framework suggests areas of focus you can concentrate on during your open leadership journey to achieve these goals. **To use the framework, consider your objective(s) and look at the principles, actions, and embedded skills that might best help you reach your goals.**
 
-![A table or map showing the embedded skills that align with each principle and action of open leadership]({{ site.baseurl }}/images/olm-framework-bw.png)
+![A table or framework showing the embedded skills that align with each principle and action of open leadership]({{ site.baseurl }}/images/olm-framework-bw.png)
 
-We’ll dive into each section of the map below.
+We’ll dive into each section of the framework below.
 
 A quick note: we've borrowed a list of [6 "community interactions"](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3) from Mozilla's Open Innovation Strategy Team and grouped them with particular practices below. Each type of interaction carries its own range of activities. For example, "soliciting ideas" might amount to crowdsourcing ideas from a community of users without offering much value in return, or it might mean bringing in a group of users who first contribute their ideas and then get invited to work on them as credited developers during a "creating together" interaction later in the same project. Open leaders choose these interaction types strategically for particular projects and stages of projects, but they also strategically decide on and define levels of interaction within each type.
 
 ## Design
 
-These are the strategic prompts Open Leaders use to set goals and determine the levels of openness their projects will have in terms of operations and interactions with their communities. This is how Open Leaders decide what to share, how to share it, and why to share it that way. Open Leaders use the skills and practices of **design** to boost the quality of their work and extend its reach.
+These are the strategic prompts open leaders use to set goals and determine the levels of openness their projects will have in terms of operations and interactions with their communities. This is how Open Leaders decide what to share, how to share it, and why to share it that way. Open leaders use the skills and practices of **design** to boost the quality of their work and extend its reach.
 
 ![This organizer shows the actions and embedded skills of Design]({{ site.baseurl }}/images/olm-design.png)
 
@@ -251,10 +248,10 @@ When you design, you remain open to:
 - Evaluating the most inclusive, efficient levels of openness for content development, governance (or decision-making), and information-sharing for your project or organization to reach as many people as possible with the highest quality work you have to share.
 - Determining how best to interact with contributors and community members to fuel participation and innovation without exploiting others under cover of openness (Klepel, 2017).
 
-As an Open Leader develops, they begin to think about:
+As you develop your open leadership practice, you should begin to think about:
 
-- How to align the management practices of **build** with the strategic decisions they make.
-- How to develop the personal leadership skills from **empower** that can help them share ownership of strategic decisions with contributors.
+- How to align the management practices of **build** with the strategic decisions you make.
+- How to develop the personal leadership skills from **empower** that can help you share ownership of strategic decisions with contributors.
 
 A breakdown of each section follows.
 
@@ -301,9 +298,9 @@ When you build your project or organization, you remain open to:
 - Evaluating and adopting the open practices, platforms and tools that will extend and sustain your project’s reach.
 - Implementing the most inclusive community-management practices and structures you and your contributors devise together to share power and decision-making across the project or organization.
 
-As Open Leaders develop they begin to think about:
+As you develop your open leadership practice, you should begin to think about:
 
-- How to employ these principles, competencies, and skills in increasingly intentional and strategic ways that complement the their goals, operational decisions, and community interactions from **design**.
+- How to employ these principles, competencies, and skills in increasingly intentional and strategic ways that complement the your goals, operational decisions, and community interactions from **design**.
 - How to enact these principles, competencies, and skills in ways that foster openness and fuel stakeholders’ capacity and passion for the work using personal leadership practices from **empower**.
 
 A breakdown of each build sections follows.
@@ -327,7 +324,7 @@ A breakdown of each build sections follows.
   - Relinquishes long-term control of projects to their communities.
   - Evaluates the sustainability of projects and plans to maintain or end them appropriately.
 - Project Management
-  - Co-creates and shares roadmapping and milestones.
+  - Co-creates and shares roadframeworkping and milestones.
   - Models clear and effective writing for project bugs and issues.
   - Delegates appropriately and supports contributors in their work.
 
@@ -391,10 +388,10 @@ When you empower others, you remain open to:
 - Balancing competing tensions in a project that drive innovation and progress.
 - Sharing and addressing your own vulnerabilities.
 
-As an Open Leader develops, they begin to think about:
+As you develop your open leadership practice, you should begin to think about:
 
-- How their personal leadership style empowers colleagues and contributors to realize the benefits of working open through the decision-making processes of **design**.
-- How their personal leadership skills combine with core open practices from **build** and **design** to inspire people across projects, organizations, networks, communities, and society.
+- How your personal leadership style empowers colleagues and contributors to realize the benefits of working open through the decision-making processes of **design**.
+- How your personal leadership skills combine with core open practices from **build** and **design** to inspire people across projects, organizations, networks, communities, and society.
 
 Empowering contributors to be open leaders in their own right helps ensure the sustainability and maintenance of a project, creates opportunities for succession planning in open communities and projects, and helps make openness a renewable resource across communities of practice.
 
@@ -429,11 +426,11 @@ A breakdown of each section follows.
 
 ## Next steps
 
-This white paper is a starting place meant to help us better define and practice open leadership across Mozilla, the movement for Internet health, and society as a whole. It should prompt discussion and inspire adaptations, challenges, questions, and improvements.
+This framework is a starting place meant to help us better define and practice open leadership across Mozilla, the movement for Internet health, and society as a whole. It should prompt discussion and inspire adaptations, challenges, questions, and improvements.
 
-As we test the Open Leadership Map and curriculum, experiences, and assessments informed by it, we’ll look to the Mozilla community to let us know what works, what doesn’t work, and what we should change.
+As we iterate the Open Leadership Framework and curriculum, experiences, and assessments informed by it, we’ll look to the Mozilla community to let us know what works, what doesn’t work, and what we should change.
 
-Please let us know what you think of this white paper and how you’re using it by contacting Mozilla’s open leadership team.
+Please let us know what you think of this framework and how you’re using it by contacting Mozilla’s open leadership team. You can email project lead [Chad Sansing](mnailto:chad@mozillafoundation.org) directly or leave questions, comments, and suggestion on the Google Drive or GitHub versions of this document.
 
 Finally, if you’d like to get a sense of how open leadership looks across the Mozilla network or to participate in Mozilla's open leadership programming, please consider the following.
 
@@ -456,7 +453,7 @@ Finally, if you’d like to get a sense of how open leadership looks across the 
 - [**Global Sprint.**](https://mozilla.github.io/global-sprint/) Check back often to submit a project for the next Global Sprint, a 2-day celebration of open projects and contributors from around the world. 
 - [**MozFest.**](https://mozillafestival.org/) Join us this October in London for our annual celebration of the Mozilla Network and the open projects its community members lead, support, and inspire.
 
-Thank you for your leadership. We can’t wait to see what we can do together!
+Thank you for your leadership. We can’t wait to see what we might build together!
 
 ## Works cited
 
@@ -492,13 +489,13 @@ Thank you for your leadership. We can’t wait to see what we can do together!
 
 ## License
 
-The content of this white paper is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org). Last updated 2/2/18.
+The content of this framework is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org). Last updated 2/2/18.
 
-## Appendix A - Open Leadership Map Theory of Change
+## Appendix A - Open Leadership Framework Theory of Change
 
-![This graphic illustrates the Open Leadership Map Theory of Change which results in greater worldwide adoption and application of open principles and practices across organizations, communities, and states]({{ site.baseurl }}/images/olm-toc.png)
+![This graphic illustrates the Open Leadership Framework Theory of Change which results in greater worldwide adoption and application of open principles and practices across organizations, communities, and states]({{ site.baseurl }}/images/olf-toc.png)
 
-## Appendix B - Open Leadership Map decision log
+## Appendix B - Open Leadership Framework decision log
 
 If you are curious about how we arrived at different terms, definitions, and models, please review this [decision log](https://docs.google.com/document/d/1ocnwUCmL6w7SeRiFQTdyJSJYlrrPf45Q6jRA28qqSAA/edit#) (also in the repo as [decision-log.md)](https://github.com/mozilla/olm-whitepaper/blob/master/decision-log.md).
 
@@ -506,7 +503,7 @@ If you are curious about how we arrived at different terms, definitions, and mod
 
 - Comment on this [Google Doc](https://docs.google.com/document/d/1CxQeaZW4fckRqmPeHn9SGSnY6f2cJX5bONEJYbhVTk0/edit#).
 - [File issues](https://github.com/mozilla/olm-whitepaper/issues) on GitHub.
-- Follow this series of [weeknotes](https://medium.com/@chadsansing/open-leadership-map-weeknote-1-4f0c4b1b7798), or weekly updates, about the project.
+- Follow this series of [weeknotes](https://medium.com/@chadsansing/open-leadership-framework-weeknote-1-4f0c4b1b7798), or weekly updates, about the project.
 - Email [Chad Sansing](mailto:chad@mozillafoundation.org).
 - Join us for [office hours](https://public.etherpad-mozilla.org/p/olm-whitepaper-office-hours) or a [community call](https://public.etherpad-mozilla.org/p/olm-whitepaper-call). 
 - Follow this weeknote series here or by subscribing to the [Work Open, Lead Open newsletter](https://tinyletter.com/MozOpenLeaders). 
