@@ -7,4 +7,4 @@
 - **H1, 2018:** Draft, share, test, & revise use-cases.
 - **H1, 2018:** Launch Open Leadership Framework
 - **H1, 2018:** Test content in trainings.
-- **H1, 2018:** Determine next steps for the Open Leadership Map.
+- **H1, 2018:** Determine next steps for the Open Leadership Framework.

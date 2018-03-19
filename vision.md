@@ -1,6 +1,6 @@
-# A Vision for the Open Leadership Map white paper 
+# A Vision for the Open Leadership Framework 
 
-We gather feedback and improve the Open Leadership Map white paper until it's strong enough to help us co-create world-class professional development opportunities with our partners.
+We gather feedback and improve the Open Leadership Framework until it's strong enough to help us co-create world-class professional development opportunities with our partners.
 
 ## POP
 
@@ -10,15 +10,18 @@ To gather feedback from open practitioners that helps us define Open Leadership 
 
 ### Outcomes
 
-- A public beta of the Open Leadership Map white paper.
+- A public beta of the Open Leadership Framework.
 - A shared definition of Open Leadership that is clear and useful across the Mozilla Network and movement for Internet health.
-- A set of practices and trainings that help empower leaders across the Mozilla Network and movement for Internet health to amplify, improve, and share their work.
-- A rubric and/or process for determing the next steps we might take regarding the Open Leadership Map.
+- A set of practices, use-cases, and trainings that help empower leaders across the Mozilla Network and movement for Internet health to amplify, improve, and share their work.
+- A rubric and/or process for determing the next steps we might take regarding the Open Leadership Framework.
 
 ### Process
 
 - **January, 2018:** Open the public alpha of the Open Leadership Map white paper for community feedback.
 - **January, 2018:** Prioritize feedback and revise the Open Leadership Map white paper.
 - **February, 2018:** Release a public beta of the Open Leadership Map white paper.
-- **H1, 2018:** Test Open Leadership Map white paper content in trainings.
-- **H1, 2018:** Determine next steps for the Open Leadership Map.
+- **March, 2018:** Shift copy and content from Open Leadership Map white paper to Open Leadership Framework.
+- **H1, 2018:** Draft, share, test, & revise use-cases.
+- **H1, 2018:** Launch Open Leadership Framework
+- **H1, 2018:** Test content in trainings.
+- **H1, 2018:** Determine next steps for the Open Leadership Framework.
