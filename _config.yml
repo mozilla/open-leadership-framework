@@ -1,17 +1,17 @@
-title: Open Leadership Map White Paper
+title: Open Leadership Map Framework
 subtitle:
 email: chad@mozillafoundation.org
 twitter: https://twitter.com/MozOpenLeaders
 chat: https://gitter.im/mozilla/open-leadership-training
 description: > # this means to ignore newlines until "baseurl:"
-  Open Leadership Map White Paper. A set of principles, practices, and skills
+  Open Leadership Framework. A set of principles, practices, and skills
   people can use to mobilize their communities to solve shared problems and
-  achieve shared goals. This map illustrates how those principles, practices,
+  achieve shared goals. This framework describes how those principles, practices,
   and skills relate to one another.
-baseurl: "/olm-whitepaper" # the subpath of your site, e.g. /blog
+baseurl: "/olm-framework" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:
-  repo: "mozilla/olm-whitepaper"
+  repo: "mozilla/olm-framework"
   branch: "master"
 
 
