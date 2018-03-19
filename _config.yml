@@ -8,10 +8,10 @@ description: > # this means to ignore newlines until "baseurl:"
   people can use to mobilize their communities to solve shared problems and
   achieve shared goals. This framework describes how those principles, practices,
   and skills relate to one another.
-baseurl: "/olm-framework" # the subpath of your site, e.g. /blog
+baseurl: "/open-leadership-framework" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:
-  repo: "mozilla/olm-framework"
+  repo: "mozilla/open-leadership-framework"
   branch: "master"
 
 
