@@ -15,7 +15,7 @@ At Mozilla, we’re passionate about working open. This framework is our latest 
 
 We believe that open leaders design, build, and empower for understanding, sharing, and participation and inclusion.
 
-![A table showing the skills of open leadership grouped by principle and practice](images/olm-framework-bw.png)
+![A table showing the skills of open leadership grouped by principle and practice](images/olf-framework-bw.png)
 
 In the short-term, we hope the framework contributes to conversations about how to work open and enact the principles, practices, and skills of open leadership. In the long-term, we hope the map helps increase public demand for an open Web and society through projects and products that fulfill users’ needs for agency, authenticity, and ownership.
 
