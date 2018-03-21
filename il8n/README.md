@@ -32,7 +32,7 @@ Combining those principles and practices, our map might look something like this
 
 We’ve included skills drawn from Mozilla’s own experience with working open, literature about organizational evolution and psychology, and research done by Mozilla’s [Open Innovation Strategy Team](https://medium.com/mozilla-open-innovation).
 
-***We would love to know what you think.*** [This white paper](https://mozilla.github.io/olm-whitepaper/whitepaper/) (and it's [Google Doc version](https://docs.google.com/document/d/1CxQeaZW4fckRqmPeHn9SGSnY6f2cJX5bONEJYbhVTk0/edit#heading=h.daj7ikbuxrpq)) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
+***We would love to know what you think.*** [This framework](https://mozilla.github.io/open-leadership-framework/framework) (and it's [Google Doc version](https://docs.google.com/document/d/1CxQeaZW4fckRqmPeHn9SGSnY6f2cJX5bONEJYbhVTk0/edit#heading=h.daj7ikbuxrpq)) establishes the framework for the project and defines the principles, practices, and skills of Open Leadership. This document is meant to serve as the foundation for whatever form the Open Leadership Map takes and for the curriculum and trainings developed from it.
 
 We would love to know:
 
@@ -108,7 +108,7 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 1. First, create an account on [GitHub](https://github.com).
 
-2. Then visit [our repo](https://github.com/mozilla/olm-whitepaper) to contribute to the white paper.
+2. Then visit [our repo](https://github.com/mozilla/open-leadership-framework) to contribute to the white paper.
 
 3. Next, click on the "Issues" tab near the top of the page.
 

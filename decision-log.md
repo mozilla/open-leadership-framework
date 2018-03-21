@@ -50,7 +50,7 @@ The ToC also echoes the ambitious initial vision for this project, which saw ope
 
 ***Why did you change “extensibility” to “sharing” in the beta?***
 
-We had a discussion about accessibility in [this issue](https://github.com/mozilla/olm-whitepaper/issues/13) on GitHub. We decided to test “Sharing” in the beta in an attempt to make the map, ites concepts, and its terms more inviting to people who are interested in open and/or leadership, but who may come from a non-technical background.
+We had a discussion about accessibility in [this issue](https://github.com/mozilla/open-leadership-framework/issues/13) on GitHub. We decided to test “Sharing” in the beta in an attempt to make the map, ites concepts, and its terms more inviting to people who are interested in open and/or leadership, but who may come from a non-technical background.
  
 ### Beta
 
