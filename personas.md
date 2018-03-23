@@ -34,7 +34,7 @@ Hector tries the [self-assessment use-case](https://docs.google.com/forms/d/e/1F
 
 #### After
 
-Through a follow-up conversation with members of Mozilla’s Open Leadership & Events team, Hector learns about the MIT Open Leadership Camp and attends the next round with his executive director to learn how they might better delegate leadership of their organization’s projects to more staffers and community volunteers.
+Through a follow-up conversation with members of Mozilla’s Open Leadership & Events team, Hector learns about the MIT Open Leadership Camp and attends the next round with his director to learn how they might better delegate leadership of their organization’s projects to volunteer contributors. They leave camp with a new system to test for identifying volunteer contributors ready to take on project management roles.
 
 ### Kellie, the computer science grad student
 
