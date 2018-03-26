@@ -56,7 +56,7 @@ Here are some examples of how Open Leaders work on the “what” and “why” 
 
 - [Mozilla](https://mozilla.org) began its life as an [open-source project](https://www.youtube.com/watch?v=quKdaqlR_9w) to create a web browser that would break corporate monopolies over the web.
 
-- [Common Voice](https://blog.mozilla.org/berlin/en/people/kelly-davis-common-voice-project/) is Mozilla's initiative to crowdsource a large, public dataset of human voices for use in open speech technology. By working in the open, Mozilla was able to reach a much broader group contributors, partners, and users. Each group helped us build and guide Common Voice along the way. Making Common Voice successful largely meant facilitating the collaboration between groups who, like us, want to see speech technology more open and accessible to all.
+- [Common Voice](https://voice.mozilla.org/) is Mozilla's initiative to crowdsource a large, public dataset of human voices for use in [open speech technology](https://blog.mozilla.org/berlin/en/people/kelly-davis-common-voice-project/). By working in the open, Mozilla was able to reach a much broader group contributors, partners, and users. Each group helped us build and guide Common Voice along the way. Making Common Voice successful largely meant facilitating the collaboration between groups who, like us, want to see speech technology more open and accessible to all.
 
 - In [The Mozilla Italia l10n Guide](https://medium.com/read-write-participate/mozilla-italia-l10n-guide-e6f6d36b45bb), Sara Todaro uses [Contributing Guidelines](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/blob/master/CONTRIBUTING.md) to outline how others can participate in the project.
 
