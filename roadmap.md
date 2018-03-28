@@ -4,10 +4,12 @@
 - **January, 2018:** Prioritize feedback and revise the Open Leadership Map white paper.
 - **February, 2018:** Release a public beta of the Open Leadership Map white paper.
 - **March, 2018:** - Publish alpha/beta retrospective blog post on RWP.
+- **March, 2018:** - Switch naming to Open Leadership Framework (OLF).
 - **March, 2018:** - Draft OLF CMS site copy.
 - **March - April, 2018:** - Work with dsign team on initial design assets (banner, icons).
 - **April 2018:** - Meet with Mark to review and set strategy.
 - **April - May, 2018:** - Mentor 3-4 Global Sprint teams with OLF materials and develop “cradle-to-grave” GS case studies with them.
+- **May, 2018:** - Revise Google Drive version of the OLF to match GH version.
 - **May, 2018:** - Incorporate MoCo OI “open archetype” research into OLF.
 - **H1, 2018:** - MoFo brown-bag to introduce the framework and ask for use-case testing.
 - **H1, 2018:** - Release Open Leadership Framework and CMS site contextualizing it.
