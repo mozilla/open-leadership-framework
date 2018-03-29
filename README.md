@@ -49,9 +49,9 @@ During April, 2018, we'll share and walk-through 1 use-case per call.
 
 Here is the schedule for March office hours:
 
-- 4/3/18, 12 PM - 2 PM ET, 16:00 - 18:00 UTC - [OLF self-assessment]()
-- 4/12/18, 8 AM - 10 AM ET, 12:00 - 14:00 UTC - [OLF project design assessment]()
-- 4/18/18, 2 PM - 4 PM ET, 16:00 - 20:00 UTC - [OLF project post-mortem]()
+- 4/3/18, 12 PM - 2 PM ET, 16:00 - 18:00 UTC - [OLF self-assessment](https://github.com/mozilla/open-leadership-framework/blob/master/use-cases/olf-self-assessment.pdf)
+- 4/12/18, 8 AM - 10 AM ET, 12:00 - 14:00 UTC - [OLF project design assessment](https://github.com/mozilla/open-leadership-framework/blob/master/use-cases/olf-project-design-assessment.pdf)
+- 4/18/18, 2 PM - 4 PM ET, 16:00 - 20:00 UTC - [OLF project post-mortem](https://github.com/mozilla/open-leadership-framework/blob/master/use-cases/olf-project-post-mortem.pdf)
 
 ## Community calls
 
