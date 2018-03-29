@@ -43,24 +43,26 @@ Finally, if you’d like to see examples of the Open Leadership Framework at wor
 
 We will hold office hours to collect feedback informally on a drop-in basis.
 
-The [office hours notes are here](https://public.etherpad-mozilla.org/p/olm-whitepaper-office-hours).
+During April, 2018, we'll share and walk-through 1 use-case per call.
+
+***New etherpad for April, 2018:*** The [office hours notes are here](https://public.etherpad-mozilla.org/p/olf-office-hours).
 
 Here is the schedule for March office hours:
 
-- 3/6/18, 8 AM - 10 AM ET, 12:00 - 13:00 UTC
-- 3/13/18, 12 PM - 2 PM ET, 14:00 - 16:00 UTC
-- 3/20/18, 2 PM - 4 PM ET, 16:00 - 20:00 UTC
+- 4/3/18, 12 PM - 2 PM ET, 16:00 - 18:00 UTC - [OLF self-assessment]()
+- 4/12/18, 8 AM - 10 AM ET, 12:00 - 14:00 UTC - [OLF project design assessment]()
+- 4/18/18, 2 PM - 4 PM ET, 16:00 - 20:00 UTC - [OLF project post-mortem]()
 
 ## Community calls
 
 We will hold two community calls at the end of March to ask what's working, what's not working, and what's missing from the map.
 
-The [community call notes are here](https://public.etherpad-mozilla.org/p/olm-whitepaper-call).
+***New etherpad for April, 2018:*** The [community call notes are here](https://public.etherpad-mozilla.org/p/olf-community-call).
 
 Here is the schedule for March community calls:
 
-- 3/27/18, 8 AM - 9 AM ET, 12:00 - 13:00 UTC
-- 3/27/18, 8 PM - 9 PM ET, 00:00 - 01:00 UTC
+- 4/26/18, 8 AM - 9 AM ET, 12:00 - 13:00 UTC
+- 4/26/18, 8 PM - 9 PM ET, 00:00 - 01:00 UTC
 
 ## What kinds of skills do I need to contribute?
 
