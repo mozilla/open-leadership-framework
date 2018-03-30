@@ -84,6 +84,8 @@ The aim of the framework is to establish an adaptable set of open leadership pri
 
 The framework is meant to be a foundation for later work, and, as such, it is not meant to be a practical guide or curriculum just yet. Moreover, the framework itself will likely evolve over time as we discover more use cases for it in our work and in our wider community's work to share open practices. While it is in some ways limiting to start with any particular set of principles and practices, we believe it's important to share what we know and make this contribution to ongoing conversations about working open and open leadership in the world.
 
+To put it another way: This framework is the first step of a larger, on-going project to develop curriculum, events, trainings, and online resouces like an open leadership map that will help people locate themselves and then move ahead in their open leadership journeys.
+
 If you're curious about the kinds of use cases we evision and plan for the framework, you can review and test these prototypes: 
 
 - [Self assessment](https://docs.google.com/forms/d/e/1FAIpQLSds8B2aj6K0h7EwdKDBdqpIkGxReyOgrA4QRhrLim-Ags4rUw/viewform?usp=sf_link)

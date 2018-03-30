@@ -19,6 +19,8 @@ We believe that open leaders design, build, and empower for understanding, shari
 
 In the short-term, we hope the framework contributes to conversations about how to work open and enact the principles, practices, and skills of open leadership. In the long-term, we hope the map helps increase public demand for an open Web and society through projects and products that fulfill users’ needs for agency, authenticity, and ownership.
 
+This framework is the first step of a larger, on-going project to develop curriculum, events, trainings, and online resouces like an open leadership map that will help people locate themselves and then move ahead in their open leadership journeys.
+
 ## Get involved!
 
 You can visit the framework to check it out for yourself and think about how it relates to your understanding and practice of open leadership.
