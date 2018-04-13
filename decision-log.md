@@ -59,5 +59,15 @@ We had a discussion about accessibility in [this issue](https://github.com/mozil
 To put it simply: we’re not ready to make a map yet, so we need to stop calling this a map.
 
 While we will continue to improve our information architecture and move towards producing a map that will help people locate themselves on their open leadership journeys, this document - the Open Leadership Map white paper - will become the Open Leadership Framework when it goes gold and gets released later in March 2018. This framework will serve as the foundation for other resources built from it and its principles, practices, and skills will begin appearing in other programming from the Open Leadership and Events (OLE) team.
+
+***Why do the use-cases use different formats or methodologies?***
+
+The self-assessment asks users to indicate whether they often, sometimes, or seldom enact a specific open leadership skill. Users give themselves 2 points for each “often” answer, 1 point for each “sometimes” answer, and 0 points for each “seldom” answer. Users then tally their points and use guidelines to interpret their scores and possible next steps. We wanted to use a points-tally system here to give users quantitative data about their open leadership practice that would seem more objective to them than subjective or judgmental. The big idea is to take a specific next step in response to a score and the interpretation guidelines, rather than to worry about the score itself or how to describe yourself as an open leader while still new to the framework and its language.
+
+The project-design assessment asks users to provide evidence - in the form of a link or another kind of note telling where evidence can be found - to show whether or not their current projects include the principles, practices, and skills of open leadership. The big idea is to see very quickly whether or not your current project reflects open leadership in its structures and systems. Either the evidence of open leadership is there, or it’s not. By noting where you can provide evidence of open leadership and where you cannot, you give yourself a way to focus on the parts of your project that need to become more open the most.
+
+The project post-mortem asks for short-answers that explain how open leadership showed up in users’ projects. Because the post-mortem asks, “What happened?”, it’s important that its formatting allows space for storytelling and reflection. The big idea here is reflect on your successes and challenges in bringing open leadership to your project and community by providing illustrations and examples of what happened.
+
+These use-cases also use different formatting so we can ask questions about the effectiveness and utility of each and see if one method or another appeals to contributors and users across all of the use-cases.
  
 ### Gold/post-launch
