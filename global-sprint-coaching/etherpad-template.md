@@ -38,7 +38,7 @@
 
 #### 2. Challenges (10 minutes)
 
-- Silent etherpadding: what do you think are key challenge facing this - or any - Global Sprint - project?
+- Silent etherpadding: what do you think are key challenge facing this, or any, Global Sprint project?
   -
   -
   -
