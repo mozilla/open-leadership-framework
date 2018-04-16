@@ -1,6 +1,6 @@
 # Open Leadership Framework coaching for the Global Sprint
 
-## Meeting 1 - The Open Leadership Framework + self-assessment
+## Meeting 1, the Open Leadership Framework + self-assessment
 
 ### Roll call (name + organization + social media handle)
 
@@ -38,37 +38,37 @@
 
 #### 2. Challenges (10 minutes)
 
-- Silent etherpadding - What do you think are key challenge facing this - or any - Global Sprint - project?
+- Silent etherpadding: what do you think are key challenge facing this - or any - Global Sprint - project?
   -
   -
   -
   -
   -
 
-- Reactions - Which challenges would you +1 as the most essential to address?
+- Reactions: which challenges would you +1 as the most essential to address?
   -
   -
   -
   -
   -
 
-- Discussion - What makes these challenges so important to address?
+- Discussion: what makes these challenges so important to address?
   -
   -
   -
   -
   -
 
-- Decision - Looking at the +1s, is there consensus or heat around a single challenge or a set of related challenges that we might approach with the Open Leadership Framework throughout this coaching?
+- Decision: looking at the +1s, is there consensus or heat around a single challenge or a set of related challenges that we might approach with the Open Leadership Framework throughout this coaching?
   -
   -
   -
 
 #### 3. What is the Open Leadership Framework (OLF)? (10 minutes)
 
-- Framework - https://mozilla.github.io/open-leadership-framework/ 
-- Repo - https://github.com/mozilla/open-leadership-framework 
-- Slide deck - https://docs.google.com/presentation/d/1ob3drO0G991tvgRIbDTmhBsfWOgi5pOD54JJz4AN_cY/edit#slide=id.g377b087e27_0_68
+- Framework: https://mozilla.github.io/open-leadership-framework/ 
+- Repo: https://github.com/mozilla/open-leadership-framework 
+- Slide deck: https://docs.google.com/presentation/d/1ob3drO0G991tvgRIbDTmhBsfWOgi5pOD54JJz4AN_cY/edit#slide=id.g377b087e27_0_68
 - Notes
   - 
   -
@@ -93,7 +93,7 @@
   - Self-assessment
   - Interpreting your scores
   - Stay connected
--Now let’s try it! (10 minutes)
+- Now let’s try it! (10 minutes)
   - Complete your copy of the document. You can face and camera mute during this time, or even drop off the call and rejoin, for privacy.
 - Discussion (10 minutes)
   - What would you like to share?
@@ -141,7 +141,7 @@
 
 //
 
-## Meeting 2 - The Open Leadership Framework + project design assessment
+## Meeting 2, the Open Leadership Framework + project design assessment
 
 ### Roll call (name + organization + social media handle)
 
@@ -235,7 +235,7 @@
 
 //
 
-## Meeting 3 - Community interactions + value exchanges
+## Meeting 3, community interactions + value exchanges
 
 ### Roll call (name + organization + social media handle)
 
@@ -332,7 +332,7 @@
 
 //
 
-## Meeting 4 - Sprint week!
+## Meeting 4, Global Sprint week!
 
 ### Roll call (name + organization + social media handle)
 
@@ -396,7 +396,7 @@
   
 //
 
-## Meeting 5 - The Open Leadership Framework + post-mortem assessment + reflection
+## Meeting 5, the Open Leadership Framework + post-mortem assessment + reflection
 
 ### Roll call (name + organization + social media handle)
 
