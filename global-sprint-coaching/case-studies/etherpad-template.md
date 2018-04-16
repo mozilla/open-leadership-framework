@@ -44,7 +44,6 @@
   -
   -
   -
-
 - Reactions: which challenges would you +1 as the most essential to address?
   -
   -
@@ -442,7 +441,7 @@
   - Reflecting on your responses
   - Stay connected
 - Now let’s try it! (15 minutes)
- -Complete your copy of the document. You can face and camera mute during this time, or even drop off the call and rejoin, for privacy.
+ - Complete your copy of the document. You can face and camera mute during this time, or even drop off the call and rejoin, for privacy.
  - This might also be an opportunity to work through a single shared copy of the project design assessment together via one teammates’ document and this Hangout.
 - Discussion (10 minutes)
   - What would you like to share?
