@@ -69,5 +69,10 @@ The project-design assessment asks users to provide evidence - in the form of a 
 The project post-mortem asks for short-answers that explain how open leadership showed up in users’ projects. Because the post-mortem asks, “What happened?”, it’s important that its formatting allows space for storytelling and reflection. The big idea here is reflect on your successes and challenges in bringing open leadership to your project and community by providing illustrations and examples of what happened.
 
 These use-cases also use different formatting so we can ask questions about the effectiveness and utility of each and see if one method or another appeals to contributors and users across all of the use-cases.
+
+***Why are we postponing the official release of the OLF until H2 2018?***
+
+After [Open Leaders 5](https://mozilla.github.io/leadership-training/) and the [Global Sprint](https://foundation.mozilla.org/opportunity/global-sprint/), and ahead of [MozFest](https:..mozillafestival.org), we’d like to reflect on how we might best integrate the language and ideas in the OLF with our other Open Leadership & Events (OLE) programs. Once we’ve woven the OLF through these other programs a bit more visibly, we’ll continue with the official release of the OLF.
+
  
 ### Gold/post-launch
