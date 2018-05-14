@@ -11,9 +11,9 @@
 - **April - May, 2018:** - Mentor 3-4 Global Sprint teams with OLF materials and develop “cradle-to-grave” GS case studies with them.
 - **May, 2018:** - Revise Google Drive version of the OLF to match GH version.
 - **May, 2018:** - Incorporate MoCo OI “open archetype” research into OLF.
-- **H1, 2018:** - MoFo brown-bag to introduce the framework and ask for use-case testing.
-- **H1, 2018:** - Release Open Leadership Framework and CMS site contextualizing it.
 - **H1, 2018:** - Integrate OLF with MozRetreat and MozFest CFP.
+- **H2, 2018:** - MoFo brown-bag to introduce the framework and ask for use-case testing.
+- **H2, 2018:** - Release Open Leadership Framework and CMS site contextualizing it.
 - **H2, 2018:** - Develop and deliver new curriculum, events, and trainings from OLF.
 - **H2, 2018:** - Revise OL 101 and OLTS as needed.
 - **H2, 2018:** - Integrate OLF into MozFest wrangler and facilitator guides and trainings.
