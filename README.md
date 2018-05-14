@@ -123,7 +123,7 @@ If you'd like to learn even more about GitHub, check out the [*GitHub for Collab
 
 ## What's next?
 
-Look for our "official" relase of the Open Leadership Framework later in H1, 2018.
+Look for our "official" relase of the Open Leadership Framework later in H2, 2018.
 
 ## Thank you! 
 
