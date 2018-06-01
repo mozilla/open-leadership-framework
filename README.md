@@ -43,28 +43,11 @@ Finally, if you’d like to see examples of the Open Leadership Framework at wor
 
 ## Office hours
 
-We will hold office hours to collect feedback informally on a drop-in basis.
-
-During April, 2018, we'll share and walk-through 1 use-case per call.
-
-***New etherpad for April, 2018:*** The [office hours notes are here](https://public.etherpad-mozilla.org/p/olf-office-hours).
-
-Here is the schedule for March office hours:
-
-- 4/3/18, 12 PM - 2 PM ET, 16:00 - 18:00 UTC - [OLF self-assessment](https://github.com/mozilla/open-leadership-framework/blob/master/use-cases/olf-self-assessment.pdf)
-- 4/12/18, 8 AM - 10 AM ET, 12:00 - 14:00 UTC - [OLF project design assessment](https://github.com/mozilla/open-leadership-framework/blob/master/use-cases/olf-project-design-assessment.pdf)
-- 4/18/18, 2 PM - 4 PM ET, 16:00 - 20:00 UTC - [OLF project post-mortem](https://github.com/mozilla/open-leadership-framework/blob/master/use-cases/olf-project-post-mortem.pdf)
+Office hours are on pause right now.
 
 ## Community calls
 
-We will hold two community calls at the end of March to ask what's working, what's not working, and what's missing from the map.
-
-***New etherpad for April, 2018:*** The [community call notes are here](https://public.etherpad-mozilla.org/p/olf-community-call).
-
-Here is the schedule for March community calls:
-
-- 4/26/18, 8 AM - 9 AM ET, 12:00 - 13:00 UTC
-- 4/26/18, 8 PM - 9 PM ET, 00:00 - 01:00 UTC
+Community calls are on pause right now.
 
 ## What kinds of skills do I need to contribute?
 
@@ -128,3 +111,5 @@ Look for our "official" relase of the Open Leadership Framework later in H2, 201
 ## Thank you! 
 
 We are so grateful for your time, attention, and leadership! Let us know how we might best move forward together.
+
+*Last updated 6/1/18*
