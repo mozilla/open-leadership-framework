@@ -62,7 +62,7 @@ Here are some examples of how Open Leaders work on the “what” and “why” 
 
 - In [The Mozilla Italia l10n Guide](https://medium.com/read-write-participate/mozilla-italia-l10n-guide-e6f6d36b45bb), Sara Todaro uses [Contributing Guidelines](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/blob/master/CONTRIBUTING.md) to outline how others can participate in the project.
 
-- In [UofT coders](https://uoftcoders.github.io), their leadership team uses the [personas and pathways](https://github.com/UofTCoders/council/blob/master/Personas-and-pathways.md) exercise to identify potential blockers to participation.
+- In [UofT coders](https://uoftcoders.github.io), their leadership team uses the [personas and pathways](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) exercise to identify potential blockers to participation.
 
 - In [The Method Podcast](https://themethodpodcast.com/), April Clyburne-Sherin includes many different ways to submit audio to make participation as easy as possible.
 
