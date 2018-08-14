@@ -499,7 +499,7 @@ Thank you for your leadership. We can’t wait to see what we might build togeth
 
 ## License
 
-The content of this framework is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org). Last updated 2/2/18.
+The content of this framework is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Mozilla](https://mozilla.org). Last updated 8/14/18.
 
 ## Appendix A - Open Leadership Framework Theory of Change
 
