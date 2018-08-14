@@ -481,7 +481,7 @@ Thank you for your leadership. We can’t wait to see what we might build togeth
 - Belshaw, Doug. "Towards an architecture of participation for episodic volunteering." [http://dougbelshaw.com/blog/2014/10/10/episodic-volunteering](http://dougbelshaw.com/blog/2014/10/10/episodic-volunteering). 10 October 2014.
 - Benkler, Yochai. The Wealth of Networks. Yale University Press, 2006.
 - Catmull, Ed & Wallace, Amy. Creativity, Inc. Transworld Publishers Limited, 2014.
-- Dreeke, Robun & Stauth, Cameron. Code of Trust. St. Martin's Press, 2017.
+- Dreeke, Robin & Stauth, Cameron. Code of Trust. St. Martin's Press, 2017.
 - Finch, Patrick. "What’s Your Open Source Strategy? Here Are 10 Answers..." [https://medium.com/mozilla-open-innovation/whats-your-open-source-strategy-here-are-10-answers-383221b3f9d3](https://medium.com/mozilla-open-innovation/whats-your-open-source-strategy-here-are-10-answers-383221b3f9d3). 16 May 2018.
 - Hilliger, Laura. "Open Fluency." [http://www.laurahilliger.com/models/open-fluency/](http://www.laurahilliger.com/models/open-fluency/). 7 April 2015.
 - Irwin, Emma. "Participation Leadership Framework 0.1." [http://tiptoes.ca/participation-leadership-framework-01/](http://tiptoes.ca/participation-leadership-framework-01/). 28 August 2015.
