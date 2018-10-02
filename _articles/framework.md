@@ -214,6 +214,8 @@ That commitment to making sure that users understand and benefit from a clear an
 
 Open leadership is a set of practices and skills people can use to mobilize their communities to solve shared problems and achieve shared goals.
 
+To put it another way, open leaders design and build projects that empower people to collaborate within inclusive communities.
+
 Open leaders are guided by open **principles**. They strive for:
 
 - **Understanding:** They make the work accessible and clear.
