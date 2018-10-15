@@ -121,7 +121,7 @@ Furthermore, when a project is fully open it invites contributions from anyone. 
 
 Leads and contributors can also open projects that are not only or essentially technical in nature. Projects that serve the public good through educational programming or other forms of activism can be open as well.
 
-The altruism and idealism of openness connects people to one another through projects and organizations that invite them to build together for social good.
+The altruism and idealism of openness connects people to each other through projects and organizations that invite them to build together for social good.
 
 However, not every open project or organization is fully open. Requiring a project or organization to open everything all the time would be a high barrier to entry. The Open Leadership Framework (shared below)  is meant to help you think intentionally and strategically about when, how, and why to work open according to the needs of your contributors and community, whether they’re employees or volunteers, and whether you’re part of a fully open, community-serving social enterprise, non-profit, or research project or something else, like a for-profit company. The big idea is to discover how you can lead your project or organization to be more open, inclusive, and effective in making a difference in your contributors’ lives and in the world through increasingly open practices. Our intent is to help you, your community, and your project be "open by design," not only "open by default."
 
