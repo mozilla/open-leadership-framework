@@ -129,7 +129,7 @@ However, not every open project or organization is fully open. Requiring a proje
 
 ***We think of Open Leadership as a set of principles, practices, and skills people can use to mobilize their communities to solve shared problems and achieve shared goals.*** The leadership part comes from mobilizing communities to solve problems and achieve goals. What makes open leadership "open," however, is the way that it shares roles and responsibilities for decision-making, content-creation and information-sharing across a project or community. Open leaders develop the systems and workflows that make their projects successful with the input and participation of volunteer contributors and users who draw value from being able to freely access, adapt and change those projects for their own needs and the needs of their communities.
 
-Open Leaders **design**, **build**, and **empower** contribution pathways, projects and organizations to promote openness and social good throughout their work and across society. They **design**, **build**, and **empower** for **understanding**, **sharing**, and **participation and inclusion**, the key principles of openness.
+Open Leaders **design**, **build** and **empower** contribution pathways, projects and organizations to promote openness and social good throughout their work and across society. They **design**, **build**, and **empower** for **understanding**, **sharing**, and **participation and inclusion**, the key principles of openness.
 
 - **Design:** You plan projects for contributors and users’ specific needs and capacities.
 - **Build:** You create systems and solutions that maximize a project’s clarity, usability, and inclusiveness.
