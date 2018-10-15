@@ -31,7 +31,7 @@ toc:
 ## Hello & welcome!
 
 Hi! We’re Mozilla, a global non-profit fueling the movement for Internet health. Our mission is to ensure the Internet is a global public resource, open and accessible to all. We work for an Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
-
+onwer
 A healthy Internet helps people live and learn online. It includes everyone in its possibilities. It belongs to the people and resists being closed off or broken apart. On a healthy Internet, we are all free to share and benefit from one another's innovative, new ideas because of a culture of inclusivity, openness, and care. We work together there to fight harassment, engage critically with media, and help ourselves and our communities to maintain control of our own online lives.
 
 Some big ideas connected to [Internet health](https://internethealthreport.org/) include:
@@ -181,7 +181,7 @@ In many ways, open leadership is like other forms of good or effective leadershi
 
 However, open leaders hold themselves accountable to a wider audience of contributors and users than traditional leaders do. They:
 
-- Locate agency, ownership, and recognition within their communities of contributors and users, not only within themselves. Their power is the ability to give away power. They share authority and decision-making, delegate responsibilities, and mentor community members to the point of their own obsolescence.
+- Locate agency, ownership and recognition within their communities of contributors and users, not only within themselves. Their power is the ability to give away power. They share authority and decision-making, delegate responsibilities, and mentor community members to the point of their own obsolescence.
 - Help change systems in response to contributors and users' needs. Rather than always follow a single approach, they commit to a larger, encompassing, meta-framework that ensures accountability and transparency in whatever systems they create, adopt, or adapt with their communities.
 - Carry a responsibility to share governance, content-creation, and information equitably between themselves and contributors who may be volunteers, rather than staffers, from a variety of professional and local contexts.
 - Open their projects to the widest possible diversity of contributors which requires especially mindful matchmaking, mentoring, and community management.
