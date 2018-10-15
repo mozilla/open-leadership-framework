@@ -30,9 +30,9 @@ toc:
 
 ## Hello & welcome!
 
-Hi! We’re Mozilla, a global non-profit fueling the movement for Internet health. Our mission is to ensure the Internet is a global public resource, open and accessible to all. We work for an Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
-onwer
-A healthy Internet helps people live and learn online. It includes everyone in its possibilities. It belongs to the people and resists being closed off or broken apart. On a healthy Internet, we are all free to share and benefit from one another's innovative, new ideas because of a culture of inclusivity, openness, and care. We work together there to fight harassment, engage critically with media, and help ourselves and our communities to maintain control of our own online lives.
+Hi! We are Mozilla, a global non-profit fueling the movement for Internet health. Our mission is to ensure the Internet is a global public resource, open and accessible to all. We work for an Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
+
+A healthy Internet helps people live and learn online. It includes everyone in its possibilities. It belongs to the people and resists being closed off or broken apart. On a healthy Internet, we are all free to share and benefit from one another's innovative, new ideas because of a culture of inclusivity, openness and care. We work together there to fight harassment, engage critically with media, and help ourselves and our communities to maintain control of our own online lives.
 
 Some big ideas connected to [Internet health](https://internethealthreport.org/) include:
 
@@ -48,15 +48,15 @@ Some big ideas connected to [Internet health](https://internethealthreport.org/)
 
 Think of Internet health and these big ideas as the “what” and “why” of what we do. Our commitment to these core values drives our work.
 
-Open leadership is the “how” of our work. It’s how we accomplish our work in communities, organizations, and projects. Open leadership encompases the processes and resources we use to support Internet health for everyone’s benefit.
+Open leadership is the “how” of our work. It’s how we accomplish our work in communities, organizations and projects. Open leadership encompases the processes and resources we use to support Internet health for everyone’s benefit.
 
-Open leaders “work open.” They work collaboratively, sharing the ownership of  ideas, resources, and outcomes with contributors, while building powerful, diverse communities to support and direct projects and organizations. They also set the conditions for others to do the same, ensuring accountability, equity, and transparency in a project and its community.
+Open leaders “work open.” They work collaboratively, sharing the ownership of  ideas, resources, and outcomes with contributors, while building powerful, diverse communities to support and direct projects and organizations. They also set the conditions for others to do the same, ensuring accountability, equity and transparency in a project and its community.
 
 Here are some examples of how Open Leaders work on the “what” and “why” of their projects and organizations:
 
 - [Mozilla](https://mozilla.org) began its life as an [open-source project](https://www.youtube.com/watch?v=quKdaqlR_9w) to create a web browser that would break corporate monopolies over the web.
 
-- [Common Voice](https://voice.mozilla.org/) is Mozilla's initiative to crowdsource a large, public dataset of human voices for use in [open speech technology](https://blog.mozilla.org/berlin/en/people/kelly-davis-common-voice-project/). By working in the open, Mozilla was able to reach a much broader group of contributors, partners, and users. Each group helped us build and guide Common Voice along the way. Making Common Voice successful largely meant facilitating the collaboration between these groups who, like us, want to see speech technology more open and accessible to all.
+- [Common Voice](https://voice.mozilla.org/) is Mozilla's initiative to crowdsource a large, public dataset of human voices for use in [open speech technology](https://blog.mozilla.org/berlin/en/people/kelly-davis-common-voice-project/). By working in the open, Mozilla was able to reach a much broader group of contributors, partners and users. Each group helped us build and guide Common Voice along the way. Making Common Voice successful largely meant facilitating the collaboration between these groups who, like us, want to see speech technology more open and accessible to all.
 
 - The [Mozilla Developer Network](https://developer.mozilla.org/en-US/) (MDN) created a [repository](https://github.com/mdn/browser-compat-data) to collect and structure browser compatibility information to provide the community with open data to build cross-browser tools and websites. This was immensely successful, attracting a diverse group of dedicated contributors to help migrate data into the repo, and making it a place where a new community shares knowledge about browser compatibility.
 
@@ -74,19 +74,19 @@ Here are some examples of how Open Leaders work on the “what” and “why” 
 
 - Jim Whitehurst, CEO of [RedHat](https://www.redhat.com/en/explore/the-open-organization-book), oversees an “inclusive” decision-making process that provides employees with the opportunity to weigh in on decisions that affect them and to get all the information they need to address their concerns before giving feedback. (Whitehurst, 2014).
 
-This framework will help you understand, adapt, and use open leadership practices to further your work in the Internet health movement and beyond.
+This framework will help you understand, adapt and use open leadership practices to further your work in the Internet health movement and beyond.
 
 Together, we can use the principles and practices of open leadership to build a healthy Internet reflective of the society we want to see in the world. We are glad to be doing this work alongside you. Thank your for leadership and for sharing your open journey with us!
 
 ## Who and what is this framework for?
 
-This framework is for anyone who shares our passion for openness, working open, and open leadership. It is meant for readers from both technical and non-technical backgrounds who want to use open leadership as a means to improve their work, help their communities, and further their personal and professional growth.
+This framework is for anyone who shares our passion for openness, working open, and open leadership. It is meant for readers from both technical and non-technical backgrounds who want to use open leadership as a means to improve their work, help their communities and further their personal and professional growth.
 
-The aim of the framework is to establish an adaptable set of open leadership principles, practices, and skills that people can use for personal and professional development as part of an open community or project. More practical resources built from this framework -  like guides, curriculum, programming, and events - will come later.
+The aim of the framework is to establish an adaptable set of open leadership principles, practices and skills that people can use for personal and professional development as part of an open community or project. More practical resources built from this framework -  like guides, curriculum, programming and events - will come later.
 
-The framework is meant to be a foundation for later work, and, as such, it is not meant to be a practical guide or curriculum just yet. Moreover, the framework itself will likely evolve over time as we discover more use cases for it in our work and in our wider community's work to share open practices. While it is in some ways limiting to start with any particular set of principles and practices, we believe it's important to share what we know and make this contribution to ongoing conversations about working open and open leadership in the world.
+The framework is meant to be a foundation for later work, and, as such, it is not meant to be a practical guide or curriculum just yet. Moreover, the framework itself will likely evolve over time as we discover more use cases for it in our work and in our wider community's work to share open practices. While it is in some ways limiting to start with any particular set of principles and practices, we believe it is important to share what we know and make this contribution to ongoing conversations about working open and open leadership in the world.
 
-To put it another way: This framework is the first step of a larger, on-going project to develop curriculum, events, trainings, and online resouces like an open leadership map that will help people locate themselves and then move ahead in their open leadership journeys.
+To put it another way: This framework is the first step of a larger, on-going project to develop curriculum, events, trainings and online resouces like an open leadership map that will help people locate themselves and then move ahead in their open leadership journeys.
 
 If you are curious about the kinds of use cases we envision and plan for the framework, you can review and test these prototypes: 
 
@@ -97,33 +97,33 @@ If you are curious about the kinds of use cases we envision and plan for the fra
 
 ## What is open?
 
-Openness includes deals and practices that any kind of community, project, or organization can practice.
+Openness includes deals and practices that any kind of community, project or organization can practice.
 
 These three principles help define openness:
 
 - **Understanding:** You make the work accessible and clear.
-- **Sharing:** You make the work easy to adapt, reproduce, and spread.
-- **Participation & inclusion:** You build shared ownership and agency with contributors through accountability, equity, and transparency to make the work inviting, relevant,  safe, and sustainable for all.
+- **Sharing:** You make the work easy to adapt, reproduce and spread.
+- **Participation & inclusion:** You build shared ownership and agency with contributors through accountability equity, and transparency to make the work inviting, relevant,  safe and sustainable for all.
 
 We believe that it is important to work intentionally and mindfully towards ***Understanding***. Here, **understanding** means not only being accessible, but also being transparent in how a community or project is structured, how it makes decisions and does it work, and how it shares that work and news about it with contributors and users.
 
 We believe that it is important to ensure the **sharing** of an open community or project. The value of openness comes in large part from how it empowers others to adapt and continue the work they contributed to for their own uses and the uses of their networks and communities outside any original project.
 
-We believe that any efforts a community, leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the framework and its design, we paired **participation & inclusion**.
+We believe that any efforts a community, leader, or project makes towards inclusion must include authentic, significant and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the framework and its design we paired **participation & inclusion**.
 
-At its core, being “open” is about structuring any project or organization, technical or not, to invite the widest possible diversity of contributors from outside your organization's boundaries. Who are contributors? People who give time, expertise, and labor to a project. A project that supports diverse contributors creates an inclusive community of people working together because of the interests and passions they share. That community includes new “insiders” who may have once felt like they were “outsiders” - people outside of a community, organization, or project's notional boundaries who join a project because of shared expertise, interests and passions.  
+At its core, being “open” is about structuring any project or organization, technical or not, to invite the widest possible diversity of contributors from outside your organization's boundaries. Who are contributors? People who give time, expertise and labor to a project. A project that supports diverse contributors creates an inclusive community of people working together because of the interests and passions they share. That community includes new “insiders” who may have once felt like they were “outsiders” - people outside of a community, organization or project's notional boundaries who join a project because of shared expertise, interests and passions.  
 
-Some projects need specific skill sets and define more narrow contribution pathways. There's a tension in such projects between aspirations of inclusivity and the details of the project. Open leaders strive to collaborate with their communities to imagine and make concrete as many authentic, valuable opportunities as possible for potential participants.
+Some projects need specific skill sets and define more narrow contribution pathways. There is a tension in such projects between aspirations of inclusivity and the details of the project. Open leaders strive to collaborate with their communities to imagine and make concrete as many authentic, valuable opportunities as possible for potential participants.
 
 Open projects also return value to their contributors to compensate them somehow for their work. Open practices like shared decision-making, conflict-resolution and mentorship help people feel welcome, safe and inspired.
 
-Furthermore, when a project is fully open it invites contributions from anyone. Open projects share their processes, workflows, and outcomes through accessible platforms and open licensing. This kind of sharing is what we traditionally mean when we talk about an open project. It maximizes impact by clearing some obstacles, like cost, out of the users’ way. It also encourages and incentivizes adoption by letting users change and build off of your work to better suit their needs, amplifying the usefulness and reach of your project through new and unexpected user-generated outcomes.
+Furthermore, when a project is fully open it invites contributions from anyone. Open projects share their processes, workflows and outcomes through accessible platforms and open licensing. This kind of sharing is what we traditionally mean when we talk about an open project. It maximizes impact by clearing some obstacles, like cost, out of the users’ way. It also encourages and incentivizes adoption by letting users change and build off of your work to better suit their needs, amplifying the usefulness and reach of your project through new and unexpected user-generated outcomes.
 
 Leads and contributors can also open projects that are not only or essentially technical in nature. Projects that serve the public good through educational programming or other forms of activism can be open as well.
 
 The altruism and idealism of openness connects people to each other through projects and organizations that invite them to build together for social good.
 
-However, not every open project or organization is fully open. Requiring a project or organization to open everything all the time would be a high barrier to entry. The Open Leadership Framework (shared below)  is meant to help you think intentionally and strategically about when, how, and why to work open according to the needs of your contributors and community, whether they’re employees or volunteers, and whether you’re part of a fully open, community-serving social enterprise, non-profit, or research project or something else, like a for-profit company. The big idea is to discover how you can lead your project or organization to be more open, inclusive and effective in making a difference in your contributors’ lives and in the world through increasingly open practices. Our intent is to help you, your community and your project be "open by design," not only "open by default."
+However, not every open project or organization is fully open. Requiring a project or organization to open everything all the time would be a high barrier to entry. The Open Leadership Framework (shared below)  is meant to help you think intentionally and strategically about when, how and why to work open according to the needs of your contributors and community, whether they’re employees or volunteers, and whether you’re part of a fully open, community-serving social enterprise, non-profit, or research project or something else, like a for-profit company. The big idea is to discover how you can lead your project or organization to be more open, inclusive and effective in making a difference in your contributors’ lives and in the world through increasingly open practices. Our intent is to help you, your community and your project be "open by design," not only "open by default."
 
 ## What is open leadership?
 
@@ -137,7 +137,7 @@ Open Leaders **design**, **build** and **empower** contribution pathways, projec
 
 The skills, competencies and outcomes of open leadership can help you mobilize your community, think strategically about how to advance its work through open practices, and develop your own personal leadership style that inspires contribution and models openness.
 
-The benefits of open leadership include improving the quality of your work, increasing its efficiency and innovation, lowering its costs, and increasing its discoverability and reach in the world (Klepel, 2017). The Hive Research Lab affirms that working open leads to improved projects, greater efficiency, increased discoverability, and a stronger public commons (Santo, Ching, Peppler & Hoadley, 2014).
+The benefits of open leadership include improving the quality of your work, increasing its efficiency and innovation, lowering its costs and increasing its discoverability and reach in the world (Klepel, 2017). The Hive Research Lab affirms that working open leads to improved projects, greater efficiency, increased discoverability and a stronger public commons (Santo, Ching, Peppler & Hoadley, 2014).
 
 These goals and their strategic benefits might look slightly different across contexts.
 
@@ -147,19 +147,19 @@ For example, different types of organizations might realize these benefits sligh
 
 Across contexts, open leadership is facilitative and service-oriented in that it helps communities of contributors and users create relevant, functional solutions to meaningful personal and collective problems through shared accountability, agency, decision-making, ownership and responsibility.
 
-Of course, these benefits come with costs. It takes time and effort to open a closed project, to resolve conflicts and to make decisions that stay true to openness. It takes time to design, test and improve systems. There aren’t any shortcuts to accountability, equity and transparency. Being open often means being messy. Sometimes it feels like a project is getting worse - like there are more issues and tensions to resolve than ever - before it gets better. Openness uncovers what your project and its community need to work on in terms of creating authentic, shared ownership of the work. You can only realize the benefits of this approach through a sustained commitment to a project, its people and open principles.
+Of course, these benefits come with costs. It takes time and effort to open a closed project, to resolve conflicts and to make decisions that stay true to openness. It takes time to design, test and improve systems. There are noy shortcuts to accountability, equity and transparency. Being open often means being messy. Sometimes it feels like a project is getting worse - like there are more issues and tensions to resolve than ever - before it gets better. Openness uncovers what your project and its community need to work on in terms of creating authentic, shared ownership of the work. You can only realize the benefits of this approach through a sustained commitment to a project, its people and open principles.
 
 Open leaders follow these principles and use these practices and skills to ensure that a project and its contributors will succeed without them. They share accountability, authority and power with their communities to focus attentively on users' needs and how contributors can best meet them.
 
-Agency, equity, and ownership of the work and its outcomes are distributed and decentralized in open projects to maximize their reach, relevance and sustainability.
+Agency, equity and ownership of the work and its outcomes are distributed and decentralized in open projects to maximize their reach, relevance and sustainability.
 
-Right now, you may be working on a closed project that you’d like to open, or you might be working on a project that practices a kind of constant “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Framework are meant to help you reflect on your work, share what you do with others, and take your next step to grow as a leader.
+Right now, you may be working on a closed project that you would like to open, or you might be working on a project that practices a kind of constant “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Framework are meant to help you reflect on your work, share what you do with others and take your next step to grow as a leader.
 
 Shortly, we will take a closer look at how **designing**, **building**, and **empowering** for **understanding**, **sharing**, and **participation & inclusion** break down into specific skills and competencies.
 
 ## Open leadership is not…
 
-Let’s pause for a moment and clear up a few common misconceptions about open leadership before we look at the Open Leadership Framework.
+Let us pause for a moment and clear up a few common misconceptions about open leadership before we look at the Open Leadership Framework.
 
 Open Leadership is not (Thompson, 2011):
 
