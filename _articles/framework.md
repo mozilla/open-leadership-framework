@@ -410,7 +410,7 @@ A breakdown of each section follows.
 - Maintains authenticity & integrity
   - Consistently behaves equitably, humanely and in alignment with the culture, vision, goals and outcomes of the project or organization.
 - Maintains clarity of purpose & vision
-  - Aligns their behavior and speech with the goals, needs, and outcomes of their project or organization.
+  - Aligns their behavior and speech with the goals, needs and outcomes of their project or organization.
 - Stays curious
   - Remains willing to interrogate and adjust the structure and workflow of a project or organization in order to optimize them for shared success.
 
