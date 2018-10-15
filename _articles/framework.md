@@ -119,7 +119,7 @@ Open projects also return value to their contributors to compensate them somehow
 
 Furthermore, when a project is fully open it invites contributions from anyone. Open projects share their processes, workflows, and outcomes through accessible platforms and open licensing. This kind of sharing is what we traditionally mean when we talk about an open project. It maximizes impact by clearing some obstacles, like cost, out of the users’ way. It also encourages and incentivizes adoption by letting users change and build off of your work to better suit their needs, amplifying the usefulness and reach of your project through new and unexpected user-generated outcomes.
 
-Leads and contributors can also open projects that are not only or essentially technical in nature. Projects that serve the public good through educational programming or other forms of activism can be open, as well.
+Leads and contributors can also open projects that are not only or essentially technical in nature. Projects that serve the public good through educational programming or other forms of activism can be open as well.
 
 The altruism and idealism of openness connect people to one another through projects and organizations that invite them to build together for social good.
 
