@@ -384,7 +384,7 @@ A breakdown of each build sections follows.
 
 ## Empower
 
-These are personal leadership competencies and skills Open Leaders use to share capacity, passion, and power within and across projects, organizations, communities, and networks. This is how Open Leaders manage themselves to spread vision, passion, projects and openness.
+These are personal leadership competencies and skills Open Leaders use to share capacity, passion and power within and across projects, organizations, communities and networks. This is how Open Leaders manage themselves to spread vision, passion, projects and openness.
 
 ![This organizer shows the actions and embedded skills of Empower]({{ site.baseurl }}/images/olf-empower.png)
 
