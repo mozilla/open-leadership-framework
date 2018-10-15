@@ -440,7 +440,7 @@ As we iterate the Open Leadership Framework and curriculum, experiences and asse
 
 Please let us know what you think of this framework and how you are using it by contacting Mozilla’s open leadership team. You can email project lead [Chad Sansing](mailto:chad@mozillafoundation.org) directly or leave questions, comments and suggestions on the Google Drive or GitHub versions of this document.
 
-Finally, if you’d like to get a sense of how open leadership looks across the Mozilla network or to participate in Mozilla's open leadership programming, please consider the following.
+Finally, if you would like to get a sense of how open leadership looks across the Mozilla network or to participate in Mozilla's open leadership programming, please consider the following.
 
 ### To learn more about open leadership, visit...
 
