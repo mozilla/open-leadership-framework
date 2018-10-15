@@ -296,7 +296,7 @@ A breakdown of each section follows.
 
 ## Build
 
-These are the concrete principles, skills, and competencies Open Leaders need to structure and manage projects and communities. This is how Open Leaders define a project and establish its guidelines and workflow.
+These are the concrete principles, skills and competencies Open Leaders need to structure and manage projects and communities. This is how Open Leaders define a project and establish its guidelines and workflow.
 
 ![This organizer shows the actions and embedded skills of Build]({{ site.baseurl }}/images/olf-build.png)
 
