@@ -198,7 +198,7 @@ Open leaders empower others to become open leaders in their own right. By inviti
 
 Contributors can benefit from the same kind of intrinsic personal and professional development as they assume more responsibility in a project and receive mentorship from other leaders in their project communities. They can also draw other kinds of extrinsic value from a project such as social capital within their professional networks, a forkable version of a project they can use in their own lives or within their networks, and any other specific benefits offered by a project or its community. 
 
-Open leaders work to make the value exchanges between themselves, their projects, and their contributors transparent and mutually and equitably beneficial.
+Open leaders work to make the value exchanges between themselves, their projects and their contributors transparent and mutually and equitably beneficial.
 
 ## How does open leadership benefit the user?
 
