@@ -145,7 +145,7 @@ For example, different types of organizations might realize these benefits sligh
 
 ![A table showing the benefits of openness to for-profit, non-profit, advocacy-based, and public sector organizations concerning improved quality, improved efficiency, and improved reach]({{ site.baseurl }}/images/why-open-table.png)
 
-Across contexts, open leadership is facilitative and service-oriented in that it helps communities of contributors and users create relevant, functional solutions to meaningful personal and collective problems through shared accountability, agency, decision-making, ownership, and responsibility.
+Across contexts, open leadership is facilitative and service-oriented in that it helps communities of contributors and users create relevant, functional solutions to meaningful personal and collective problems through shared accountability, agency, decision-making, ownership and responsibility.
 
 Of course, these benefits come with costs. It takes time and effort to open a closed project, to resolve conflicts, and to make decisions that stay true to openness. It takes time to design, test, and improve systems. There aren’t shortcuts to accountability, equity, and transparency. Being open often means being messy. Sometimes it feels like a project is getting worse - like there are more issues and tensions to resolve than ever - before it gets better. Openness uncovers what your project and its community need to work on in terms of creating authentic, shared ownership of the work. You can only realize the benefits of this approach through a sustained commitment to a project, its people, and open principles.
 
