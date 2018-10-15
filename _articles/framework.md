@@ -36,7 +36,7 @@ A healthy Internet helps people live and learn online. It includes everyone in i
 
 Some big ideas connected to [Internet health](https://internethealthreport.org/) include:
 
-- **Online Privacy & Security:** People understand and can meaningfully control how their data is collected and used online, and trust that it’s safe. In parallel, companies and governments work to protect our data and enhance our ownership over our digital identities. 
+- **Online Privacy & Security:** People understand and can meaningfully control how their data is collected and used online, and trust that it is safe. In parallel, companies and governments work to protect our data and enhance our ownership over our digital identities. 
 
 - **Open Innovation:** Open is the default: open source and open standards continue to be at the heart of the Internet, and influence organizations and industries products, policies and practices. As a result, entrepreneurs and everyday Internet users can create, innovate and compete online without asking permission. 
 
