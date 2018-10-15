@@ -339,7 +339,7 @@ A breakdown of each build sections follows.
 ### Build for Sharing
 
 - Commons-based Production
-  - Evaluates online platforms for sharing project content, documentation, and comms.
+  - Evaluates online platforms for sharing project content, documentation and comms.
   - Sets internal and external levels of openness that meet community needs.
   - Ensures the online accessibility and adaptability of the project for use by others.
 - Data Stewardship
