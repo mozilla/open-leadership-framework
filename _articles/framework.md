@@ -434,7 +434,7 @@ A breakdown of each section follows.
 
 ## Next steps
 
-This framework is a starting place meant to help us better define and practice open leadership across Mozilla, the movement for Internet health, and society as a whole. It should prompt discussion and inspire adaptations, challenges, questions, and improvements.
+This framework is a starting place meant to help us better define and practice open leadership across Mozilla, the movement for Internet health and society as a whole. It should prompt discussion and inspire adaptations, challenges, questions and improvements.
 
 As we iterate the Open Leadership Framework and curriculum, experiences, and assessments informed by it, we’ll look to the Mozilla community to let us know what works, what doesn’t work, and what we should change.
 
