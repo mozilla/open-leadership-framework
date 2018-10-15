@@ -177,7 +177,7 @@ It takes rigor to practice open leadership and your contributors and communities
 
 ## How is open leadership different?
 
-In many ways, open leadership is like other forms of good or effective leadership. The best leaders find ways to empower people through work, recognition, and experiences that speak to individual and collective needs in fulfilling ways.
+In many ways, open leadership is like other forms of good or effective leadership. The best leaders find ways to empower people through work, recognition and experiences that speak to individual and collective needs in fulfilling ways.
 
 However, open leaders hold themselves accountable to a wider audience of contributors and users than traditional leaders do. They:
 
