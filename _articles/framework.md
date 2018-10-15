@@ -228,7 +228,7 @@ To apply these principles, open leaders take these **practices**. They:
 - **Build:** They create structures and systems that ensure clarity and process-based management.
 - **Empower:** They model personal leadership skills that sustain them and their contributors.
 
-As a result, open leaders and their communities, organizations, and projects work towards these objectives. They help their communities, organizations, and projects:
+As a result, open leaders and their communities, organizations and projects work towards these objectives. They help their communities, organizations, and projects:
 
 - Improve the efficiency, quality, and relevance of their work.
 - Discover new, innovative solutions that make sense to them.
