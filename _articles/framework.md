@@ -181,7 +181,7 @@ In many ways, open leadership is like other forms of good or effective leadershi
 
 However, open leaders hold themselves accountable to a wider audience of contributors and users than traditional leaders do. They:
 
-- Locate agency, ownership and recognition within their communities of contributors and users, not only within themselves. Their power is the ability to give away power. They share authority and decision-making, delegate responsibilities, and mentor community members to the point of their own obsolescence.
+- Locate agency, ownership and recognition within their communities of contributors and users, not only within themselves. Their power is the ability to give away power. They share authority and decision-making, delegate responsibilities and mentor community members to the point of their own obsolescence.
 - Help change systems in response to contributors and users' needs. Rather than always follow a single approach, they commit to a larger, encompassing, meta-framework that ensures accountability and transparency in whatever systems they create, adopt, or adapt with their communities.
 - Carry a responsibility to share governance, content-creation, and information equitably between themselves and contributors who may be volunteers, rather than staffers, from a variety of professional and local contexts.
 - Open their projects to the widest possible diversity of contributors which requires especially mindful matchmaking, mentoring, and community management.
