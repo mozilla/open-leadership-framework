@@ -321,7 +321,7 @@ A breakdown of each build sections follows.
   - Reviews communications with critical readers before sending.
 - Design
   - Practices human-centered design throughout the project.
-  - Designs to maximize participation, diversity, and inclusivity.
+  - Designs to maximize participation, diversity and inclusivity.
   - Frequently tests assumptions, systems, and products to get feedback and learn from it.
 - Facilitation
   - Assesses communities’ learning needs and teaches to them.
