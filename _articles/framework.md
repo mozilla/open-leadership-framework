@@ -220,7 +220,7 @@ Open leaders are guided by open **principles**. They strive for:
 
 - **Understanding:** They make the work accessible and clear.
 - **Sharing:** They make the work easy to adapt, reproduce and spread.
-- **Participation & inclusion:** They make the work inviting, relevant, and safe for all.
+- **Participation & inclusion:** They make the work inviting, relevant and safe for all.
 
 To apply these principles, open leaders take these **practices**. They:
 
