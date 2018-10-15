@@ -202,7 +202,7 @@ Open leaders work to make the value exchanges between themselves, their projects
 
 ## How does open leadership benefit the user?
 
-Just as the structure of an open project or community is meant to empower its contributors, the outcome or product of an open project is meant to empower its users. Users should be able to use, study, share, and adapt an open project just as contributors do. Users should have agency and ownership over the deliverable of an open project for their own uses. This ability to interact with the outcome of an open project helps invite users to become contributors, leaders, and innovators in their own rights as they adapt and localize products for their own needs and the needs of their communities.
+Just as the structure of an open project or community is meant to empower its contributors, the outcome or product of an open project is meant to empower its users. Users should be able to use, study, share and adapt an open project just as contributors do. Users should have agency and ownership over the deliverable of an open project for their own uses. This ability to interact with the outcome of an open project helps invite users to become contributors, leaders, and innovators in their own rights as they adapt and localize products for their own needs and the needs of their communities.
 
 Everything an open leader does is meant to help contributors understand their users' needs and take them into account during each step of a project. From this perspective, leaders and contributors work together to design and build projects that empower users and create social good.
 
