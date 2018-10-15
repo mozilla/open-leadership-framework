@@ -88,7 +88,7 @@ The framework is meant to be a foundation for later work, and, as such, it is no
 
 To put it another way: This framework is the first step of a larger, on-going project to develop curriculum, events, trainings, and online resouces like an open leadership map that will help people locate themselves and then move ahead in their open leadership journeys.
 
-If you're curious about the kinds of use cases we evision and plan for the framework, you can review and test these prototypes: 
+If you're curious about the kinds of use cases we envision and plan for the framework, you can review and test these prototypes: 
 
 - [Self assessment](https://docs.google.com/forms/d/e/1FAIpQLSds8B2aj6K0h7EwdKDBdqpIkGxReyOgrA4QRhrLim-Ags4rUw/viewform?usp=sf_link)
 - [Project design assessment](https://docs.google.com/forms/d/e/1FAIpQLSesg4Uk7Znn5VawGQd99eTIlAsNyPXv9TdLeJhfYj2mxtlv4w/viewform?usp=sf_link)
