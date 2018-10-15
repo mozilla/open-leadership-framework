@@ -117,7 +117,7 @@ Some projects need specific skill sets and define more narrow contribution pathw
 
 Open projects also return value to their contributors to compensate them somehow for their work. Open practices like shared decision-making, conflict-resolution and mentorship help people feel welcome, safe and inspired.
 
-Furthermore, when a project is fully open it invites contributions from anyone. Open projects share their processes, workflows, and outcomes through accessible platforms and open licensing. This kind of sharing is what we traditionally mean when we talk about an open project. It maximizes impact by clearing some obstacles, like cost, out of the users’ way. It also encourages and incentivizes adoption by letting users change and build off your work to better suit their needs, amplifying the usefulness and reach of your project through new and unexpected user-generated outcomes.
+Furthermore, when a project is fully open it invites contributions from anyone. Open projects share their processes, workflows, and outcomes through accessible platforms and open licensing. This kind of sharing is what we traditionally mean when we talk about an open project. It maximizes impact by clearing some obstacles, like cost, out of the users’ way. It also encourages and incentivizes adoption by letting users change and build off of your work to better suit their needs, amplifying the usefulness and reach of your project through new and unexpected user-generated outcomes.
 
 Leads and contributors can also open projects that are not only or essentially technical in nature. Projects that serve the public good through educational programming or other forms of activism can be open, as well.
 
