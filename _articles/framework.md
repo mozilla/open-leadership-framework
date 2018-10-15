@@ -135,7 +135,7 @@ Open Leaders **design**, **build** and **empower** contribution pathways, projec
 - **Build:** You create systems and solutions that maximize a project’s clarity, usability and inclusiveness.
 - **Empower:** You help contributors own the work through transparency, accountability and shared decision-making.
 
-The skills, competencies, and outcomes of open leadership can help you mobilize your community, think strategically about how to advance its work through open practices, and develop your own personal leadership style that inspires contribution and models openness.
+The skills, competencies and outcomes of open leadership can help you mobilize your community, think strategically about how to advance its work through open practices, and develop your own personal leadership style that inspires contribution and models openness.
 
 The benefits of open leadership include improving the quality of your work, increasing its efficiency and innovation, lowering its costs, and increasing its discoverability and reach in the world (Klepel, 2017). The Hive Research Lab affirms that working open leads to improved projects, greater efficiency, increased discoverability, and a stronger public commons (Santo, Ching, Peppler & Hoadley, 2014).
 
