@@ -270,7 +270,7 @@ A breakdown of each section follows.
 - Community interaction: learning through use
   - Strategically structures community engagement opportunities to generate data and feedback that can be used to improve the work.
 - Storytelling
-  - Develops case studies, examples, and stories that engage contributors and users by illustrating the need for a project, its vision, and its goals or outcomes.
+  - Develops case studies, examples and stories that engage contributors and users by illustrating the need for a project, its vision, and its goals or outcomes.
 
 ### Design for Sharing
 
