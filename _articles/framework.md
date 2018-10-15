@@ -133,7 +133,7 @@ Open Leaders **design**, **build** and **empower** contribution pathways, projec
 
 - **Design:** You plan projects for contributors and users’ specific needs and capacities.
 - **Build:** You create systems and solutions that maximize a project’s clarity, usability and inclusiveness.
-- **Empower:** You help contributors own the work through transparency, accountability, and shared decision-making.
+- **Empower:** You help contributors own the work through transparency, accountability and shared decision-making.
 
 The skills, competencies, and outcomes of open leadership can help you mobilize your community, think strategically about how to advance its work through open practices, and develop your own personal leadership style that inspires contribution and models openness.
 
