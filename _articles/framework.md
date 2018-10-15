@@ -408,7 +408,7 @@ A breakdown of each section follows.
 ### Empower for Understanding
 
 - Maintains authenticity & integrity
-  - Consistently behaves equitably, humanely, and in alignment with the culture, vision, goals, and outcomes of the project or organization.
+  - Consistently behaves equitably, humanely and in alignment with the culture, vision, goals and outcomes of the project or organization.
 - Maintains clarity of purpose & vision
   - Aligns their behavior and speech with the goals, needs, and outcomes of their project or organization.
 - Stays curious
