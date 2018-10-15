@@ -186,7 +186,7 @@ However, open leaders hold themselves accountable to a wider audience of contrib
 - Carry a responsibility to share governance, content-creation and information equitably between themselves and contributors who may be volunteers, rather than staffers, from a variety of professional and local contexts.
 - Open their projects to the widest possible diversity of contributors which requires mindful matchmaking, mentoring and community management.
 - Depend on others to help lead their communities asynchronously across cultures, geographies and time zones.
-- Consciously choose to follow the principles, practices, and skills of working open and open leadership as their particular pathway to good, effective, or even great leadership. They design, build, and empower their projects and communities for understanding, sharing, and participation and inclusion. They use these principles and practices to hold themselves accountable to their contributors and users' feedback and needs in dynamic, transparent ways.
+- Consciously choose to follow the principles, practices and skills of working open and open leadership as their particular pathway to good, effective or even great leadership. They design, build and empower their projects and communities for understanding, sharing, and participation and inclusion. They use these principles and practices to hold themselves accountable to their contributors and users' feedback and needs in dynamic and transparent ways.
 
 Open leaders are experts in helping each project meet its community's needs. They help others see openness as the abundant presence of the systems and people they need to succeed.
 
