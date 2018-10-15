@@ -399,7 +399,7 @@ When you empower others, you remain open to:
 As you develop your open leadership practice, you should begin to think about:
 
 - How your personal leadership style empowers colleagues and contributors to realize the benefits of working open through the decision-making processes of **design**.
-- How your personal leadership skills combine with core open practices from **build** and **design** to inspire people across projects, organizations, networks, communities, and society.
+- How your personal leadership skills combine with core open practices from **build** and **design** to inspire people across projects, organizations, networks, communities and society.
 
 Empowering contributors to be open leaders in their own right helps ensure the sustainability and maintenance of a project, creates opportunities for succession planning in open communities and projects, and helps make openness a renewable resource across communities of practice.
 
