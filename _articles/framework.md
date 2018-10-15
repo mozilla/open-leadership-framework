@@ -240,9 +240,9 @@ This Open Leadership Framework suggests areas of focus you can concentrate on du
 
 ![A table or framework showing the embedded skills that align with each principle and action of open leadership]({{ site.baseurl }}/images/olf-framework-bw.png)
 
-We’ll dive into each section of the framework below.
+We will dive into each section of the framework below.
 
-A quick note: we've borrowed a list of [6 "community interactions"](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3) from Mozilla's Open Innovation Strategy Team and grouped them with particular practices below. Each type of interaction carries its own range of activities. For example, "soliciting ideas" might amount to crowdsourcing ideas from a community of users without offering much value in return, or it might mean bringing in a group of users who first contribute their ideas and then get invited to work on them as credited developers during a "creating together" interaction later in the same project. Open leaders choose these interaction types strategically for particular projects and stages of projects, but they also strategically decide on and define levels of interaction within each type.
+A quick note: we have borrowed a list of [6 "community interactions"](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3) from Mozilla's Open Innovation Strategy Team and grouped them with particular practices below. Each type of interaction carries its own range of activities. For example, "soliciting ideas" might amount to crowdsourcing ideas from a community of users without offering much value in return, or it might mean bringing in a group of users who first contribute their ideas and then get invited to work on them as credited developers during a "creating together" interaction later in the same project. Open leaders choose these interaction types strategically for particular projects and stages of projects, but they also strategically decide on and define levels of interaction within each type.
 
 ## Design
 
