@@ -326,7 +326,7 @@ A breakdown of each build sections follows.
 - Facilitation
   - Assesses communities’ learning needs and teaches to them.
   - Connects contributors with relevant work that matches their capacities.
-  - Establishes clear, equitable systems for recognition, reviewing decisions, and conflict resolution.
+  - Establishes clear, equitable systems for recognition, reviewing decisions and conflict resolution.
 - Maintenance
   - Plans for the long-term maintenance of key systems and products coming from the project.
   - Relinquishes long-term control of projects to their communities.
