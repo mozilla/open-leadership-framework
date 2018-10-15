@@ -253,7 +253,7 @@ These are the strategic prompts open leaders use to set goals and determine the 
 When you design, you remain open to:
 
 - Questioning when, how and why you bring openness to each part of your project or organization in an intentional, strategic way that informs how you **build** things and **empower** people for maximum impact.
-- Evaluating the most inclusive, efficient levels of openness for content development, governance (or decision-making), and information-sharing for your project or organization to reach as many people as possible with the highest quality work you have to share.
+- Evaluating the most inclusive, efficient levels of openness for content development, governance (or decision-making) and information-sharing for your project or organization to reach as many people as possible with the highest quality work you have to share.
 - Determining how best to interact with contributors and community members to fuel participation and innovation without exploiting others under cover of openness (Klepel, 2017).
 
 As you develop your open leadership practice, you should begin to think about:
