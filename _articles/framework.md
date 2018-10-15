@@ -374,7 +374,7 @@ A breakdown of each build sections follows.
   - Creates trust and space for contributors to take on new responsibilities and tasks without micro-management.
   - Stays aware of contributors’ challenges and steps in with support as needed.
 - Event Planning
-  - Finds opportunities for community members to come together online and off to work synchronously.
+  - Finds opportunities for community members to come together online and offline to work synchronously.
   - Credits and shares contributors’ successes across the project.
   - Rallies contributors to fix bugs, build new features, and continuously improve the project.
 - Mentorship
