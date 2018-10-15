@@ -509,7 +509,7 @@ The content of this framework is licensed [CC BY 4.0](https://creativecommons.or
 
 ## Appendix B - Open Leadership Framework decision log
 
-If you are curious about how we arrived at different terms, definitions, and models, please review this [decision log](https://docs.google.com/document/d/1ocnwUCmL6w7SeRiFQTdyJSJYlrrPf45Q6jRA28qqSAA/edit#) (also in the repo as [decision-log.md)](https://github.com/mozilla/open-leadership-framework/blob/master/decision-log.md).
+If you are curious about how we arrived at different terms, definitions and models, please review this [decision log](https://docs.google.com/document/d/1ocnwUCmL6w7SeRiFQTdyJSJYlrrPf45Q6jRA28qqSAA/edit#) (also in the repo as [decision-log.md)](https://github.com/mozilla/open-leadership-framework/blob/master/decision-log.md).
 
 ## Appendix C - How to contribute
 
