@@ -107,7 +107,7 @@ These three principles help define openness:
 
 We believe that it is important to work intentionally and mindfully towards ***Understanding***. Here, **understanding** means not only being accessible, but also being transparent in how a community or project is structured, how it makes decisions and does it work, and how it shares that work and news about it with contributors and users.
 
-We believe that it is important to ensure the **sharing** of an open community or project. The value of openness comes in large part from how it empowers others to adapt and continue the work they contrbiuted to for their own uses and the uses of their networks and communities outside any original project.
+We believe that it is important to ensure the **sharing** of an open community or project. The value of openness comes in large part from how it empowers others to adapt and continue the work they contributed to for their own uses and the uses of their networks and communities outside any original project.
 
 We believe that any efforts a community. leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the framework and its design, we paired **participation & inclusion**.
 
