@@ -151,7 +151,7 @@ Of course, these benefits come with costs. It takes time and effort to open a cl
 
 Open leaders follow these principles and use these practices and skills to ensure that a project and its contributors will succeed without them. They share accountability, authority and power with their communities to focus attentively on users' needs and how contributors can best meet them.
 
-Agency, equity, and ownership of the work and its outcomes are distributed and decentralized in open projects to maximize their reach, relevance, and sustainability.
+Agency, equity, and ownership of the work and its outcomes are distributed and decentralized in open projects to maximize their reach, relevance and sustainability.
 
 Right now, you may be working on a closed project that you’d like to open, or you might be working on a project that practices a kind of constant, “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Framework are meant to help you reflect on your work, share what you do with others, and take your next step to grow as a leader.
 
