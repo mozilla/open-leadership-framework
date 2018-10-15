@@ -153,7 +153,7 @@ Open leaders follow these principles and use these practices and skills to ensur
 
 Agency, equity, and ownership of the work and its outcomes are distributed and decentralized in open projects to maximize their reach, relevance and sustainability.
 
-Right now, you may be working on a closed project that you’d like to open, or you might be working on a project that practices a kind of constant, “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Framework are meant to help you reflect on your work, share what you do with others, and take your next step to grow as a leader.
+Right now, you may be working on a closed project that you’d like to open, or you might be working on a project that practices a kind of constant “shout it from the rooftops” kind of open  (Thompson, 2011). At any point in your open leadership journey, this guide and the Open Leadership Framework are meant to help you reflect on your work, share what you do with others, and take your next step to grow as a leader.
 
 Shortly, we’ll take a closer look at how **designing**, **building**, and **empowering** for **understanding**, **sharing**, and **participation & inclusion** break down into specific skills and competencies below.
 
