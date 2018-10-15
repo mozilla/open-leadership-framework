@@ -234,7 +234,7 @@ As a result, open leaders and their communities, organizations and projects work
 - Discover new, innovative solutions that make sense to them.
 - Increase the discoverability, reach, lifespan and usefulness of their work.
 
-Not every community, organization or project works towards all of those objectives, principles or actions at once. Instead, open leaders work with their contributors - the people who give their time, talent, and expertise to a project - to focus on the elements that will help them achieve shared goals. For example, a local project might first work to **improve efficiency**, **quality**, and **relevance**. Later, it might share more to **increase the discoverability**, **reach**, **lifespan** and **usefulness** of its work. Then another community could ***discover new***, **innovative solutions** localized for them.
+Not every community, organization or project works towards all of those objectives, principles or actions at once. Instead, open leaders work with their contributors - the people who give their time, talent and expertise to a project - to focus on the elements that will help them achieve shared goals. For example, a local project might first work to **improve efficiency**, **quality**, and **relevance**. Later, it might share more to **increase the discoverability**, **reach**, **lifespan** and **usefulness** of its work. Then another community could ***discover new***, **innovative solutions** localized for them.
 
 This Open Leadership Framework suggests areas of focus you can concentrate on during your open leadership journey to achieve these goals. **To use the framework, consider your objective(s) and look at the principles, actions, and embedded skills that might best help you reach your goals.**
 
