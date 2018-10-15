@@ -132,7 +132,7 @@ However, not every open project or organization is fully open. Requiring a proje
 Open Leaders **design**, **build** and **empower** contribution pathways, projects and organizations to promote openness and social good throughout their work and across society. They **design**, **build** and **empower** for **understanding**, **sharing**, and **participation and inclusion**, the key principles of openness.
 
 - **Design:** You plan projects for contributors and users’ specific needs and capacities.
-- **Build:** You create systems and solutions that maximize a project’s clarity, usability, and inclusiveness.
+- **Build:** You create systems and solutions that maximize a project’s clarity, usability and inclusiveness.
 - **Empower:** You help contributors own the work through transparency, accountability, and shared decision-making.
 
 The skills, competencies, and outcomes of open leadership can help you mobilize your community, think strategically about how to advance its work through open practices, and develop your own personal leadership style that inspires contribution and models openness.
