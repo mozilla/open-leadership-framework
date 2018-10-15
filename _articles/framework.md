@@ -417,7 +417,7 @@ A breakdown of each section follows.
 ### Empower for Sharing
 
 - Makes connections
-  - Deliberately networks ideas, people, and products to create value and spark collaboration.
+  - Deliberately networks ideas, people and products to create value and spark collaboration.
 - Resilience
   - Acknowledges and responds constructively to challenges, failure, and stressors.
 - Self-care
