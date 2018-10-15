@@ -426,7 +426,7 @@ A breakdown of each section follows.
 ### Empower for Participation & Inclusion
 
 - Embraces failure
-  - Experiments with new approaches, learn from mistakes, and revise assumptions, goals, and practices moving ahead.
+  - Experiments with new approaches, learns from mistakes and revises assumptions, goals and practices moving ahead.
 - Ensures safety
   - Protects others’ physical and psychological safety so everyone can bring their whole selves and full passion to the project or organization.
 - Inspires contributions
