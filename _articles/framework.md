@@ -246,7 +246,7 @@ A quick note: we have borrowed a list of [6 "community interactions"](https://me
 
 ## Design
 
-These are the strategic prompts open leaders use to set goals and determine the levels of openness their projects will have in terms of operations and interactions with their communities. This is how Open Leaders decide what to share, how to share it, and why to share it that way. Open leaders use the skills and practices of **design** to boost the quality of their work and extend its reach.
+These are the strategic prompts open leaders use to set goals and determine the levels of openness their projects will have in terms of operations and interactions with their communities. This is how Open Leaders decide what to share, how to share it and why to share it that way. Open leaders use the skills and practices of **design** to boost the quality of their work and extend its reach.
 
 ![This organizer shows the actions and embedded skills of Design]({{ site.baseurl }}/images/olf-design.png)
 
