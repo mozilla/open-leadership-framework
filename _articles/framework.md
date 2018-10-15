@@ -141,7 +141,7 @@ The benefits of open leadership include improving the quality of your work, incr
 
 These goals and their strategic benefits might look slightly different across contexts.
 
-For example, different types of organizations might realize these benefits slightly differently.
+For example, different types of organizations might realize these benefits slightly different.
 
 ![A table showing the benefits of openness to for-profit, non-profit, advocacy-based, and public sector organizations concerning improved quality, improved efficiency, and improved reach]({{ site.baseurl }}/images/why-open-table.png)
 
