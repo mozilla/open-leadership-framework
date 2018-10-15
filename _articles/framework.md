@@ -109,7 +109,7 @@ We believe that it is important to work intentionally and mindfully towards ***U
 
 We believe that it is important to ensure the **sharing** of an open community or project. The value of openness comes in large part from how it empowers others to adapt and continue the work they contributed to for their own uses and the uses of their networks and communities outside any original project.
 
-We believe that any efforts a community. leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the framework and its design, we paired **participation & inclusion**.
+We believe that any efforts a community, leader, or project makes towards inclusion must include authentic, significant, and valuable opportunities for participation, contribution and leadership. To make that belief an explicit part of the framework and its design, we paired **participation & inclusion**.
 
 At its core, being “open” is about structuring any project or organization, technical or not, to invite the widest possible diversity of contributors from outside your organization's boundaries. Who are contributors? People who give time, expertise, and labor to a project. A project that supports diverse contributors creates an inclusive community of people working together because of the interests and passions they share. That community includes new “insiders” who may have once felt like they were “outsiders” - people outside of a community, organization, or project's notional boundaries who join a project because of shared expertise, interests, and passions.  
 
