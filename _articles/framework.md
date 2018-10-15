@@ -376,7 +376,7 @@ A breakdown of each build sections follows.
 - Event Planning
   - Finds opportunities for community members to come together online and offline to work synchronously.
   - Credits and shares contributors’ successes across the project.
-  - Rallies contributors to fix bugs, build new features, and continuously improve the project.
+  - Rallies contributors to fix bugs, build new features and improve the project continuously.
 - Mentorship
   - Stays aware of contributors’ progress and growth throughout the project.
   - Matches specific advice to contributors’ specific needs for growth and helps contributors network for personal and professional growth.
