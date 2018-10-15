@@ -281,7 +281,7 @@ A breakdown of each section follows.
 - Community interaction: enhancing value exchange
   - Strategically structures community engagement opportunities to encourage adoption and use by recognizing the value of contributions and compensating contributors in ways they value for their work.
 - Community interaction: networking common interests
-  - Strategically structures community engagement opportunities to encourage adoption and use by connecting people, communities, and networks demonstrating passionate for the work.
+  - Strategically structures community engagement opportunities to encourage adoption and use by connecting people, communities and networks demonstrating passion for the work.
 
 ### Design for Participation & Inclusion
 
