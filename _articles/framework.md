@@ -459,7 +459,7 @@ Finally, if you would like to get a sense of how open leadership looks across th
 
 ### To join an open leadership event, visit...
 - [**Global Sprint.**](https://mozilla.github.io/global-sprint/) Check back often to submit a project for the next Global Sprint, a 2-day celebration of open projects and contributors from around the world. 
-- [**MozFest.**](https://mozillafestival.org/) Join us this October in London for our annual celebration of the Mozilla Network and the open projects its community members lead, support, and inspire.
+- [**MozFest.**](https://mozillafestival.org/) Join us this October in London for our annual celebration of the Mozilla Network and the open projects its community members lead, support and inspire.
 
 Thank you for your leadership. We can’t wait to see what we might build together!
 
