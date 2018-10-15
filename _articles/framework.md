@@ -332,7 +332,7 @@ A breakdown of each build sections follows.
   - Relinquishes long-term control of projects to their communities.
   - Evaluates the sustainability of projects and plans to maintain or end them appropriately.
 - Project Management
-  - Co-creates and shares roadframeworkping and milestones.
+  - Co-creates and shares road frameworking and milestones.
   - Models clear and effective writing for project bugs and issues.
   - Delegates appropriately and supports contributors in their work.
 
