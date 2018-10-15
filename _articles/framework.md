@@ -225,7 +225,7 @@ Open leaders are guided by open **principles**. They strive for:
 To apply these principles, open leaders take these **practices**. They:
 
 - **Design:** They make contextual, deliberate decisions about how and when to be open.
-- **Build:** They create structures, and systems that ensure clarity and process-based management.
+- **Build:** They create structures and systems that ensure clarity and process-based management.
 - **Empower:** They model personal leadership skills that sustain them and their contributors.
 
 As a result, open leaders and their communities, organizations, and projects work towards these objectives. They help their communities, organizations, and projects:
