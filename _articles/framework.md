@@ -48,7 +48,7 @@ Some big ideas connected to [Internet health](https://internethealthreport.org/)
 
 Think of Internet health and these big ideas as the “what” and “why” of what we do. Our commitment to these core values drives our work.
 
-Open leadership is the “how” of our work. It’s how we accomplish our work in communities, organizations, and projects. open leadership encompases the processes and resources we use to support Internet health for everyone’s benefit.
+Open leadership is the “how” of our work. It’s how we accomplish our work in communities, organizations, and projects. Open leadership encompases the processes and resources we use to support Internet health for everyone’s benefit.
 
 Open leaders “work open.” They work collaboratively, sharing the ownership of  ideas, resources, and outcomes with contributors, while building powerful, diverse communities to support and direct projects and organizations. They also set the conditions for others to do the same, ensuring accountability, equity, and transparency in a project and its community.
 
