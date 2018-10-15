@@ -309,7 +309,7 @@ When you build your project or organization, you remain open to:
 As you develop your open leadership practice, you should begin to think about:
 
 - How to employ these principles, competencies and skills in increasingly intentional and strategic ways that complement the your goals, operational decisions, and community interactions from **design**.
-- How to enact these principles, competencies, and skills in ways that foster openness and fuel stakeholders’ capacity and passion for the work using personal leadership practices from **empower**.
+- How to enact these principles, competencies and skills in ways that foster openness and fuel stakeholders’ capacity and passion for the work using personal leadership practices from **empower**.
 
 A breakdown of each build sections follows.
 
