@@ -230,7 +230,7 @@ To apply these principles, open leaders take these **practices**. They:
 
 As a result, open leaders and their communities, organizations and projects work towards these objectives. They help their communities, organizations and projects:
 
-- Improve the efficiency, quality, and relevance of their work.
+- Improve the efficiency, quality and relevance of their work.
 - Discover new, innovative solutions that make sense to them.
 - Increase the discoverability, reach, lifespan and usefulness of their work.
 
