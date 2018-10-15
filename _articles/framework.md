@@ -115,7 +115,7 @@ At its core, being “open” is about structuring any project or organization, 
 
 Some projects need specific skill sets and define more narrow contribution pathways. There's a tension in such projects between aspirations of inclusivity and the details of the project. Open leaders strive to collaborate with their communities to imagine and make concrete as many authentic, valuable opportunities as possible for potential participants.
 
-Open projects also return value to their contributors to compensate them somehow for their work. Open practices like shared decision-making, conflict-resolution, and mentorship help people feel welcome, safe, and inspired.
+Open projects also return value to their contributors to compensate them somehow for their work. Open practices like shared decision-making, conflict-resolution and mentorship help people feel welcome, safe and inspired.
 
 Furthermore, when a project is fully open it invites contributions from anyone. Open projects share their processes, workflows, and outcomes through accessible platforms and open licensing. This kind of sharing is what we traditionally mean when we talk about an open project. It maximizes impact by clearing some obstacles, like cost, out of your users’ way. It also encourages and incentivizes adoption by letting users change and build off your work to better suit their needs, amplifying the usefulness and reach of your project through new and unexpected user-generated outcomes.
 
