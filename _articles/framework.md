@@ -419,7 +419,7 @@ A breakdown of each section follows.
 - Makes connections
   - Deliberately networks ideas, people and products to create value and spark collaboration.
 - Resilience
-  - Acknowledges and responds constructively to challenges, failure, and stressors.
+  - Acknowledges and responds constructively to challenges, failure and stressors.
 - Self-care
   - Adopts practices to sustain and periodically restore personal passion and capacity for the work of their project or organization.
 
