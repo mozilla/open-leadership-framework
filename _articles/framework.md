@@ -170,7 +170,7 @@ Open Leadership is not (Thompson, 2011):
 Instead, open leadership requires you to:
 
 - Clearly communicate the goals of your project and the value of working on your project.
-- Create robust, transparent systems for content development, governance, and information-sharing.
+- Create robust, transparent systems for content development, governance and information-sharing.
 - Test and revise your work until it meets your community’s needs.
 
 It takes rigor to practice open leadership and your contributors and communities will hold you accountable for maintaining the openness of your shared work.
