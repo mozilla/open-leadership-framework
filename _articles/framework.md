@@ -453,7 +453,7 @@ Finally, if you would like to get a sense of how open leadership looks across th
 - [**Mozilla Pulse.**](https://www.mozillapulse.org/latest) Track open projects in real-time with this community bulletin-board.
 
 ### To learn more about practicing open leadership, visit...
-- [**Our online mentorship program.**](https://mozilla.github.io/leadership-training/) Join a cohort of open project leaders receiving mentorship from past graudates and members of Mozilla's open leadership & Events team.
+- [**Our online mentorship program.**](https://mozilla.github.io/leadership-training/) Join a cohort of open project leaders receiving mentorship from past graduates and members of Mozilla's open leadership & Events team.
 - [**Open Leadership 101.**](https://mozilla.teachable.com/p/open-leadership-101) Try this light-touch, online introductory course to working open.
 - [**Open Leadership Training Series (OLTS).**](https://mozilla.github.io/leadership-training/) Try this in-depth, self-paced curriculum designed to help you develop and document an open project.
 
